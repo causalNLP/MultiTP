@@ -1,0 +1,17 @@
+lang: en
+country: null
+
+system_role: normal
+add_paraphrase: false
+
+translation_forward_model: google
+translation_backward_model: google
+
+analysis_backend_model_version: Qwen/Qwen2-0.5B-Instruct #meta-llama/Meta-Llama-3-8B-Instruct
+
+model_version: Qwen/Qwen2-0.5B-Instruct
+
+lang_subset: all
+
+steps: 
+  - dataset_preparation

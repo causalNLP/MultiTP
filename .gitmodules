@@ -1,0 +1,6 @@
+[submodule "multi_tp/pathfinder"]
+	path = multi_tp/pathfinder
+	url = git@github.com:giorgiopiatti/pathfinder.git
+[submodule "multi_tp/efficiency"]
+	path = multi_tp/efficiency
+	url = git@github.com:zhijing-jin/efficiency.git

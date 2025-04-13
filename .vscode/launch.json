@@ -1,0 +1,160 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "step 1 - prepare dataset",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main",
+            "args": [
+                "steps=['dataset_preparation']",
+                "lang=de"
+            ],
+        },
+        {
+            "name": "step 1 - prepare dataset country",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main",
+            "args": [
+                "steps=['dataset_preparation']",
+                "lang=en",
+                "country=us"
+            ],
+        },
+        {
+            "name": "step 2 - query model",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main",
+            "args": [
+                "steps=['query_model']",
+                "lang=de",
+                "model_version=Qwen/Qwen2-0.5B-Instruct"
+            ],
+            "justMyCode": false
+        },
+        {
+            "name": "step 3 - backtranslate",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main",
+            "args": [
+                "steps=['backtranslate']",
+                "lang=de",
+                "model_version=Qwen/Qwen2-0.5B-Instruct"
+            ],
+            "justMyCode": false
+        },
+        {
+            "name": "step 2 - backtranslate issue",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main",
+            "args": [
+                "steps=['backtranslate']",
+                "lang=th",
+                "model_version=meta-llama/Meta-Llama-3.1-8B-Instruct"
+            ],
+            "justMyCode": false
+        },
+        {
+            "name": "step 4 - parsechoice issue",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main",
+            "args": [
+                "steps='[parse_choice, performance_summary]'","lang=af", 
+                "model_version=meta-llama/Llama-2-7b-chat-hf"
+            ],
+            "justMyCode": false
+        },
+        {
+            "name": "step 4 - parse choice",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main",
+            "args": [
+                "steps=['parse_choice']",
+                "lang=de",
+                "model_version=Qwen/Qwen2-0.5B-Instruct"
+            ],
+            "justMyCode": false
+        },
+        {
+            "name": "step 5 - performance summary",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main",
+            "args": [
+                "steps=['performance_summary']",
+                "lang=de",
+                "model_version=Qwen/Qwen2-0.5B-Instruct"
+            ],
+            "justMyCode": false
+        },
+        {
+            "name": "all 1-5",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main",
+            "args": [
+                "steps=['query_model', 'backtranslate', 'parse_choice', 'performance_summary']",
+                "lang=de",
+                "model_version=Qwen/Qwen2-0.5B-Instruct"
+            ],
+            "justMyCode": false
+        },
+        {
+            "name": "step 2 - query model parallel",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main_lang",
+            "args": [
+                "steps=['query_model']",
+                "lang=de",
+                "model_version=Qwen/Qwen2-0.5B-Instruct"
+            ],
+            "justMyCode": false
+        },
+        {
+            "name": "step 3 - backtranslate parallel",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main_lang",
+            "args": [
+                "steps=['backtranslate']",
+                "lang=de",
+                "model_version=Qwen/Qwen2-0.5B-Instruct"
+            ],
+            "justMyCode": false
+        },
+        {
+            "name": "step 4 - parse choice parallel",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main_lang",
+            "args": [
+                "steps=['parse_choice']",
+                "lang=de",
+                "model_version=Qwen/Qwen2-0.5B-Instruct"
+            ],
+            "justMyCode": false
+        },
+        {
+            "name": "step 5 - performance summary parallel",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "multi_tp.main_lang",
+            "args": [
+                "steps=['performance_summary']",
+                "lang=de",
+                "model_version=Qwen/Qwen2-0.5B-Instruct"
+            ],
+            "justMyCode": false
+        },
+    ]
+}

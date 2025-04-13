@@ -1,0 +1,16 @@
+vllm
+numpy
+tqdm
+pandas
+# pip3 install -e ./code/efficiency
+hydra_core
+
+editdistance # for parse
+transformers 
+# HF fast inference
+accelerate
+transformers
+optimum
+einops
+hf_transfer
+backoff 

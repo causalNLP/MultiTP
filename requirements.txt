@@ -1,0 +1,24 @@
+numpy
+tqdm
+pandas
+# pip3 install -e ./code/efficiency
+hydra_core
+googletrans==3.1.0a0
+httpx==0.13.3 # for googletrans 
+
+
+editdistance # for parse
+transformers 
+# HF fast inference
+accelerate
+transformers
+optimum
+einops
+hf_transfert
+
+matplotlib
+geopandas==0.14.4
+seaborn
+
+plotly
+nbformat
