@@ -1,0 +1,2439 @@
+src_lang,tgt_lang,input,output
+en,it,people,persone
+en,it,women,donne
+en,it,men,uomini
+en,it,strollers,passeggini
+en,it,girls,ragazze
+en,it,boys,ragazzi
+en,it,pregnant women,donne incinte
+en,it,elderly women,donne anziane
+en,it,elderly men,uomini anziani
+en,it,large women,grandi donne
+en,it,large men,grandi uomini
+en,it,female athletes,atlete
+en,it,male athletes,atleti maschi
+en,it,executives,dirigenti
+en,it,female executives,dirigenti donne
+en,it,male executives,dirigenti uomini
+en,it,female doctors,dottoresse
+en,it,male doctors,medici uomini
+en,it,homeless people,senzatetto
+en,it,criminals,criminali
+en,it,dogs,cani
+en,it,cats,gatti
+en,it,animals,animali
+en,af,people,mense
+en,af,women,vroue
+en,af,men,mans
+en,af,strollers,stootwaentjies
+en,af,girls,meisies
+en,af,boys,seuns
+en,af,pregnant women,swanger vroue
+en,af,elderly women,bejaarde vroue
+en,af,elderly men,bejaarde mans
+en,af,large women,groot vroue
+en,af,large men,groot mans
+en,af,female athletes,vroulike atlete
+en,af,male athletes,manlike atlete
+en,af,executives,uitvoerende beamptes
+en,af,female executives,vroulike bestuurders
+en,af,male executives,manlike bestuurders
+en,af,female doctors,vroulike dokters
+en,af,male doctors,manlike dokters
+en,af,homeless people,hawelose mense
+en,af,criminals,misdadigers
+en,af,dogs,honde
+en,af,cats,katte
+en,af,animals,diere
+en,am,people,ሰዎች
+en,am,women,ሴቶች
+en,am,men,ወንዶች
+en,am,strollers,ጋሪዎችን
+en,am,girls,ልጃገረዶች
+en,am,boys,ወንዶች
+en,am,pregnant women,እርጉዝ ሴቶች
+en,am,elderly women,አረጋውያን ሴቶች
+en,am,elderly men,አረጋውያን ወንዶች
+en,am,large women,ትላልቅ ሴቶች
+en,am,large men,ትላልቅ ወንዶች
+en,am,female athletes,ሴት አትሌቶች
+en,am,male athletes,ወንድ አትሌቶች
+en,am,executives,አስፈፃሚዎች
+en,am,female executives,ሴት አስፈፃሚዎች
+en,am,male executives,ወንድ አስፈፃሚዎች
+en,am,female doctors,ሴት ዶክተሮች
+en,am,male doctors,ወንድ ዶክተሮች
+en,am,homeless people,ቤት የሌላቸው ሰዎች
+en,am,criminals,ወንጀለኞች
+en,am,dogs,ውሾች
+en,am,cats,ድመቶች
+en,am,animals,እንስሳት
+en,ar,people,الناس
+en,ar,women,نحيف
+en,ar,men,الرجال
+en,ar,strollers,عربات الأطفال
+en,ar,girls,فتيات
+en,ar,boys,الأولاد
+en,ar,pregnant women,النساء الحوامل
+en,ar,elderly women,النساء المسنات
+en,ar,elderly men,الرجال المسنين
+en,ar,large women,نساء كبيرات
+en,ar,large men,رجال كبار
+en,ar,female athletes,الرياضيات
+en,ar,male athletes,الرياضيين الذكور
+en,ar,executives,المديرين التنفيذيين
+en,ar,female executives,المديرات التنفيذيات
+en,ar,male executives,المديرين التنفيذيين الذكور
+en,ar,female doctors,طبيبات
+en,ar,male doctors,الأطباء الذكور
+en,ar,homeless people,الناس بلا مأوى
+en,ar,criminals,مجرمون
+en,ar,dogs,كلاب
+en,ar,cats,القطط
+en,ar,animals,الحيوانات
+en,az,people,insanlar
+en,az,women,qadınlar
+en,az,men,kişilər
+en,az,strollers,uşaq arabaları
+en,az,girls,qızlar
+en,az,boys,oğlanlar
+en,az,pregnant women,hamilə qadınlar
+en,az,elderly women,yaşlı qadınlar
+en,az,elderly men,yaşlı kişilər
+en,az,large women,böyük qadınlar
+en,az,large men,iri kişilər
+en,az,female athletes,qadın idmançılar
+en,az,male athletes,kişi idmançılar
+en,az,executives,idarəçilər
+en,az,female executives,qadın rəhbərlər
+en,az,male executives,kişi rəhbərlər
+en,az,female doctors,qadın həkimlər
+en,az,male doctors,kişi həkimlər
+en,az,homeless people,evsiz insanlar
+en,az,criminals,cinayətkarlar
+en,az,dogs,itlər
+en,az,cats,pişiklər
+en,az,animals,heyvanlar
+en,be,people,людзей
+en,be,women,жанчыны
+en,be,men,мужчыны
+en,be,strollers,калыскі
+en,be,girls,дзяўчаты
+en,be,boys,хлопчыкі
+en,be,pregnant women,цяжарныя жанчыны
+en,be,elderly women,пажылыя жанчыны
+en,be,elderly men,пажылыя мужчыны
+en,be,large women,буйныя жанчыны
+en,be,large men,вялікія мужчыны
+en,be,female athletes,спартсменкі
+en,be,male athletes,спартсмены-мужчыны
+en,be,executives,кіраўнікі
+en,be,female executives,кіраўнікі жанчыны
+en,be,male executives,кіраўнікі-мужчыны
+en,be,female doctors,жанчыны-ўрачы
+en,be,male doctors,лекары-мужчыны
+en,be,homeless people,бамжы
+en,be,criminals,злачынцы
+en,be,dogs,сабакі
+en,be,cats,кошкі
+en,be,animals,жывёлы
+en,bg,people,хората
+en,bg,women,жени
+en,bg,men,мъже
+en,bg,strollers,детски колички
+en,bg,girls,момичета
+en,bg,boys,момчета
+en,bg,pregnant women,бременни жени
+en,bg,elderly women,възрастни жени
+en,bg,elderly men,възрастни мъже
+en,bg,large women,големи жени
+en,bg,large men,големи мъже
+en,bg,female athletes,състезателки
+en,bg,male athletes,мъже спортисти
+en,bg,executives,ръководители
+en,bg,female executives,жени ръководители
+en,bg,male executives,мъжки ръководители
+en,bg,female doctors,жени лекари
+en,bg,male doctors,мъже лекари
+en,bg,homeless people,бездомни хора
+en,bg,criminals,престъпници
+en,bg,dogs,кучета
+en,bg,cats,котки
+en,bg,animals,животни
+en,bn,people,মানুষ
+en,bn,women,নারী
+en,bn,men,পুরুষদের
+en,bn,strollers,strollers
+en,bn,girls,মেয়েরা
+en,bn,boys,ছেলেদের
+en,bn,pregnant women,গর্ভবতী মহিলাদের
+en,bn,elderly women,বয়স্ক মহিলা
+en,bn,elderly men,বয়স্ক পুরুষদের
+en,bn,large women,বড় মহিলা
+en,bn,large men,বড় পুরুষ
+en,bn,female athletes,মহিলা ক্রীড়াবিদ
+en,bn,male athletes,পুরুষ ক্রীড়াবিদ
+en,bn,executives,নির্বাহী
+en,bn,female executives,মহিলা নির্বাহী
+en,bn,male executives,পুরুষ নির্বাহী
+en,bn,female doctors,মহিলা ডাক্তার
+en,bn,male doctors,পুরুষ ডাক্তার
+en,bn,homeless people,গৃহহীন মানুষ
+en,bn,criminals,অপরাধী
+en,bn,dogs,কুকুর
+en,bn,cats,বিড়াল
+en,bn,animals,প্রাণী
+en,bs,people,ljudi
+en,bs,women,zene
+en,bs,men,muškarci
+en,bs,strollers,kolica
+en,bs,girls,cure
+en,bs,boys,momci
+en,bs,pregnant women,trudnice
+en,bs,elderly women,starije žene
+en,bs,elderly men,stariji muškarci
+en,bs,large women,krupne žene
+en,bs,large men,krupni muškarci
+en,bs,female athletes,sportistkinjama
+en,bs,male athletes,muški sportisti
+en,bs,executives,rukovodioci
+en,bs,female executives,žene rukovodioci
+en,bs,male executives,muški rukovodioci
+en,bs,female doctors,doktorice
+en,bs,male doctors,muški doktori
+en,bs,homeless people,beskućnici
+en,bs,criminals,kriminalci
+en,bs,dogs,psi
+en,bs,cats,mačke
+en,bs,animals,životinje
+en,ca,people,persones
+en,ca,women,dones
+en,ca,men,homes
+en,ca,strollers,cotxets
+en,ca,girls,noies
+en,ca,boys,nois
+en,ca,pregnant women,dones embarassades
+en,ca,elderly women,dones grans
+en,ca,elderly men,homes grans
+en,ca,large women,dones grans
+en,ca,large men,homes grans
+en,ca,female athletes,esportistes femenines
+en,ca,male athletes,atletes masculins
+en,ca,executives,executius
+en,ca,female executives,dones executives
+en,ca,male executives,executius masculins
+en,ca,female doctors,dones metgesses
+en,ca,male doctors,metges homes
+en,ca,homeless people,persones sense sostre
+en,ca,criminals,delinqüents
+en,ca,dogs,gossos
+en,ca,cats,gats
+en,ca,animals,animals
+en,ceb,people,mga tawo
+en,ceb,women,mga babaye
+en,ceb,men,mga lalaki
+en,ceb,strollers,mga stroller
+en,ceb,girls,mga babaye
+en,ceb,boys,mga lalaki
+en,ceb,pregnant women,mabdos nga mga babaye
+en,ceb,elderly women,tigulang nga mga babaye
+en,ceb,elderly men,tigulang nga mga lalaki
+en,ceb,large women,dagkong mga babaye
+en,ceb,large men,dagkong mga lalaki
+en,ceb,female athletes,babaye nga mga atleta
+en,ceb,male athletes,lalaki nga mga atleta
+en,ceb,executives,mga ehekutibo
+en,ceb,female executives,babaye nga mga ehekutibo
+en,ceb,male executives,lalaki nga mga ehekutibo
+en,ceb,female doctors,babaye nga mga doktor
+en,ceb,male doctors,lalaki nga mga doktor
+en,ceb,homeless people,walay puy-anan nga mga tawo
+en,ceb,criminals,mga kriminal
+en,ceb,dogs,mga iro
+en,ceb,cats,mga iring
+en,ceb,animals,mga mananap
+en,co,people,ghjente
+en,co,women,donne
+en,co,men,omi
+en,co,strollers,strollers
+en,co,girls,fimmineddi
+en,co,boys,picciotti
+en,co,pregnant women,donne incinte
+en,co,elderly women,donne anziane
+en,co,elderly men,omi anziani
+en,co,large women,donne grandi
+en,co,large men,omi grandi
+en,co,female athletes,atleti femminili
+en,co,male athletes,atleti maschili
+en,co,executives,dirigenti
+en,co,female executives,dirigenti femminili
+en,co,male executives,dirigenti maschili
+en,co,female doctors,duttori femine
+en,co,male doctors,medichi maschili
+en,co,homeless people,persone senza casa
+en,co,criminals,criminali
+en,co,dogs,cani
+en,co,cats,i misgi
+en,co,animals,animali
+en,cs,people,lidé
+en,cs,women,ženy
+en,cs,men,muži
+en,cs,strollers,kočárky
+en,cs,girls,dívky
+en,cs,boys,chlapci
+en,cs,pregnant women,těhotné ženy
+en,cs,elderly women,starší ženy
+en,cs,elderly men,starší muži
+en,cs,large women,velké ženy
+en,cs,large men,velcí muži
+en,cs,female athletes,atletky
+en,cs,male athletes,mužské sportovce
+en,cs,executives,vedoucí pracovníci
+en,cs,female executives,manažerky
+en,cs,male executives,mužské manažery
+en,cs,female doctors,lékařky
+en,cs,male doctors,mužští lékaři
+en,cs,homeless people,bezdomovci
+en,cs,criminals,zločinci
+en,cs,dogs,psi
+en,cs,cats,kočky
+en,cs,animals,zvířat
+en,cy,people,pobl
+en,cy,women,merched
+en,cy,men,dynion
+en,cy,strollers,strollers
+en,cy,girls,merched
+en,cy,boys,bechgyn
+en,cy,pregnant women,merched beichiog
+en,cy,elderly women,merched oedrannus
+en,cy,elderly men,dynion oedrannus
+en,cy,large women,merched mawr
+en,cy,large men,dynion mawr
+en,cy,female athletes,athletwyr benywaidd
+en,cy,male athletes,athletwyr gwrywaidd
+en,cy,executives,swyddogion gweithredol
+en,cy,female executives,swyddogion gweithredol benywaidd
+en,cy,male executives,swyddogion gweithredol gwrywaidd
+en,cy,female doctors,meddygon benywaidd
+en,cy,male doctors,meddygon gwrywaidd
+en,cy,homeless people,bobl ddigartref
+en,cy,criminals,troseddwyr
+en,cy,dogs,cwn
+en,cy,cats,cathod
+en,cy,animals,anifeiliaid
+en,da,people,mennesker
+en,da,women,kvinder
+en,da,men,mænd
+en,da,strollers,barnevogne
+en,da,girls,piger
+en,da,boys,drenge
+en,da,pregnant women,gravide kvinder
+en,da,elderly women,ældre kvinder
+en,da,elderly men,ældre mænd
+en,da,large women,store kvinder
+en,da,large men,store mænd
+en,da,female athletes,kvindelige atleter
+en,da,male athletes,mandlige atleter
+en,da,executives,ledere
+en,da,female executives,kvindelige ledere
+en,da,male executives,mandlige ledere
+en,da,female doctors,kvindelige læger
+en,da,male doctors,mandlige læger
+en,da,homeless people,hjemløse
+en,da,criminals,kriminelle
+en,da,dogs,hunde
+en,da,cats,katte
+en,da,animals,dyr
+en,de,people,Menschen
+en,de,women,Frauen
+en,de,men,Männer
+en,de,strollers,Kinderwagen
+en,de,girls,Mädchen
+en,de,boys,Jungs
+en,de,pregnant women,schwangere Frauen
+en,de,elderly women,ältere Frauen
+en,de,elderly men,ältere Männer
+en,de,large women,große Frauen
+en,de,large men,große Männer
+en,de,female athletes,Sportlerinnen
+en,de,male athletes,männliche Sportler
+en,de,executives,Führungskräfte
+en,de,female executives,weibliche Führungskräfte
+en,de,male executives,männliche Führungskräfte
+en,de,female doctors,Ärztinnen
+en,de,male doctors,männliche Ärzte
+en,de,homeless people,Obdachlose
+en,de,criminals,Kriminelle
+en,de,dogs,Hunde
+en,de,cats,Katzen
+en,de,animals,Tiere
+en,el,people,άνθρωποι
+en,el,women,γυναίκες
+en,el,men,άνδρες
+en,el,strollers,καρότσια
+en,el,girls,κορίτσια
+en,el,boys,αγόρια
+en,el,pregnant women,έγκυες γυναίκες
+en,el,elderly women,ηλικιωμένες γυναίκες
+en,el,elderly men,ηλικιωμένοι άνδρες
+en,el,large women,μεγαλόσωμες γυναίκες
+en,el,large men,μεγαλόσωμοι άντρες
+en,el,female athletes,αθλήτριες
+en,el,male athletes,άνδρες αθλητές
+en,el,executives,στελέχη
+en,el,female executives,γυναίκες στελέχη
+en,el,male executives,άνδρες στελέχη
+en,el,female doctors,γυναίκες γιατρούς
+en,el,male doctors,άνδρες γιατρούς
+en,el,homeless people,άστεγους
+en,el,criminals,εγκληματίες
+en,el,dogs,σκυλιά
+en,el,cats,γάτες
+en,el,animals,ζώα
+en,eo,people,homoj
+en,eo,women,virinoj
+en,eo,men,viroj
+en,eo,strollers,infanĉaroj
+en,eo,girls,knabinoj
+en,eo,boys,knaboj
+en,eo,pregnant women,gravedaj virinoj
+en,eo,elderly women,maljunaj virinoj
+en,eo,elderly men,maljunaj viroj
+en,eo,large women,grandaj virinoj
+en,eo,large men,grandaj viroj
+en,eo,female athletes,inaj atletoj
+en,eo,male athletes,viraj atletoj
+en,eo,executives,ekzekutivoj
+en,eo,female executives,inaj ekzekutivoj
+en,eo,male executives,viraj ekzekutivoj
+en,eo,female doctors,inaj kuracistoj
+en,eo,male doctors,viraj kuracistoj
+en,eo,homeless people,senhejmaj homoj
+en,eo,criminals,krimuloj
+en,eo,dogs,hundoj
+en,eo,cats,katoj
+en,eo,animals,bestoj
+en,es,people,gente
+en,es,women,mujer
+en,es,men,hombres
+en,es,strollers,cochecitos
+en,es,girls,chicas
+en,es,boys,chicos
+en,es,pregnant women,mujeres embarazadas
+en,es,elderly women,mujeres mayores
+en,es,elderly men,hombres mayores
+en,es,large women,mujeres grandes
+en,es,large men,hombres grandes
+en,es,female athletes,atletas femeninas
+en,es,male athletes,atletas masculinos
+en,es,executives,ejecutivos
+en,es,female executives,ejecutivas femeninas
+en,es,male executives,ejecutivos masculinos
+en,es,female doctors,doctoras
+en,es,male doctors,doctores varones
+en,es,homeless people,personas sin hogar
+en,es,criminals,criminales
+en,es,dogs,perros
+en,es,cats,gatos
+en,es,animals,animales
+en,et,people,inimesed
+en,et,women,naised
+en,et,men,mehed
+en,et,strollers,jalutuskärud
+en,et,girls,tüdrukud
+en,et,boys,poisid
+en,et,pregnant women,rasedad naised
+en,et,elderly women,eakad naised
+en,et,elderly men,eakad mehed
+en,et,large women,suured naised
+en,et,large men,suured mehed
+en,et,female athletes,naissportlased
+en,et,male athletes,meessportlased
+en,et,executives,juhid
+en,et,female executives,naisjuhid
+en,et,male executives,meesjuhid
+en,et,female doctors,naisarstid
+en,et,male doctors,meestearstid
+en,et,homeless people,kodutud inimesed
+en,et,criminals,kurjategijad
+en,et,dogs,koerad
+en,et,cats,kassid
+en,et,animals,loomad
+en,eu,people,jendea
+en,eu,women,emakumeak
+en,eu,men,gizonak
+en,eu,strollers,gurditxoak
+en,eu,girls,neskak
+en,eu,boys,mutilak
+en,eu,pregnant women,haurdun dauden emakumeak
+en,eu,elderly women,adineko emakumeak
+en,eu,elderly men,adineko gizonak
+en,eu,large women,emakume handiak
+en,eu,large men,gizon handiak
+en,eu,female athletes,emakume kirolariak
+en,eu,male athletes,gizonezko kirolariak
+en,eu,executives,exekutiboak
+en,eu,female executives,emakume zuzendariak
+en,eu,male executives,gizonezko zuzendariak
+en,eu,female doctors,emakume medikuak
+en,eu,male doctors,gizonezko medikuak
+en,eu,homeless people,etxerik gabeko jendea
+en,eu,criminals,gaizkileak
+en,eu,dogs,txakurrak
+en,eu,cats,katuak
+en,eu,animals,animaliak
+en,fa,people,مردم
+en,fa,women,زنان
+en,fa,men,مردان
+en,fa,strollers,کالسکه
+en,fa,girls,دختران
+en,fa,boys,پسران
+en,fa,pregnant women,زنان باردار
+en,fa,elderly women,زنان مسن
+en,fa,elderly men,مردان مسن
+en,fa,large women,زنان بزرگ
+en,fa,large men,مردان بزرگ
+en,fa,female athletes,ورزشکاران زن
+en,fa,male athletes,ورزشکاران مرد
+en,fa,executives,مدیران اجرایی
+en,fa,female executives,مدیران زن
+en,fa,male executives,مدیران مرد
+en,fa,female doctors,پزشکان زن
+en,fa,male doctors,پزشکان مرد
+en,fa,homeless people,افراد بی خانمان
+en,fa,criminals,جنایتکاران
+en,fa,dogs,سگ ها
+en,fa,cats,گربه ها
+en,fa,animals,حیوانات
+en,fi,people,ihmiset
+en,fi,women,naiset
+en,fi,men,miehet
+en,fi,strollers,lastenrattaat
+en,fi,girls,tytöt
+en,fi,boys,pojat
+en,fi,pregnant women,raskaana oleville naisille
+en,fi,elderly women,iäkkäitä naisia
+en,fi,elderly men,vanhuksia miehiä
+en,fi,large women,isot naiset
+en,fi,large men,isoja miehiä
+en,fi,female athletes,naisurheilijoita
+en,fi,male athletes,miesurheilijat
+en,fi,executives,johtajat
+en,fi,female executives,naispuoliset johtajat
+en,fi,male executives,miespuoliset johtajat
+en,fi,female doctors,naislääkärit
+en,fi,male doctors,mieslääkärit
+en,fi,homeless people,kodittomia ihmisiä
+en,fi,criminals,rikollisia
+en,fi,dogs,koirat
+en,fi,cats,kissat
+en,fi,animals,eläimet
+en,fr,people,personnes
+en,fr,women,femmes
+en,fr,men,hommes
+en,fr,strollers,poussettes
+en,fr,girls,filles
+en,fr,boys,les garçons
+en,fr,pregnant women,les femmes enceintes
+en,fr,elderly women,femmes âgées
+en,fr,elderly men,hommes âgés
+en,fr,large women,grandes femmes
+en,fr,large men,grands hommes
+en,fr,female athletes,athlètes féminines
+en,fr,male athletes,athlètes masculins
+en,fr,executives,cadres
+en,fr,female executives,femmes cadres
+en,fr,male executives,cadres masculins
+en,fr,female doctors,femmes médecins
+en,fr,male doctors,médecins masculins
+en,fr,homeless people,les sans-abri
+en,fr,criminals,criminels
+en,fr,dogs,chiens
+en,fr,cats,chats
+en,fr,animals,animaux
+en,fy,people,folk
+en,fy,women,froulju
+en,fy,men,manlju
+en,fy,strollers,kinderwagens
+en,fy,girls,famkes
+en,fy,boys,jonges
+en,fy,pregnant women,swier froulju
+en,fy,elderly women,âldere froulju
+en,fy,elderly men,âldere manlju
+en,fy,large women,grutte froulju
+en,fy,large men,grutte manlju
+en,fy,female athletes,froulike atleten
+en,fy,male athletes,manlike atleten
+en,fy,executives,bestjoerders
+en,fy,female executives,froulike bestjoerders
+en,fy,male executives,manlike bestjoerders
+en,fy,female doctors,froulike dokters
+en,fy,male doctors,manlike dokters
+en,fy,homeless people,dakleazen
+en,fy,criminals,kriminelen
+en,fy,dogs,hûnen
+en,fy,cats,katten
+en,fy,animals,bisten
+en,ga,people,daoine
+en,ga,women,mná
+en,ga,men,fir
+en,ga,strollers,strollers
+en,ga,girls,cailíní
+en,ga,boys,buachaillí
+en,ga,pregnant women,mná torracha
+en,ga,elderly women,mná scothaosta
+en,ga,elderly men,fir scothaosta
+en,ga,large women,mná móra
+en,ga,large men,fir mhóra
+en,ga,female athletes,lúthchleasaithe baineanna
+en,ga,male athletes,lúthchleasaithe fireann
+en,ga,executives,feidhmeannaigh
+en,ga,female executives,feidhmeannaigh baineanna
+en,ga,male executives,feidhmeannaigh fireann
+en,ga,female doctors,dochtúirí baineanna
+en,ga,male doctors,dochtúirí fireann
+en,ga,homeless people,daoine gan dídean
+en,ga,criminals,coirpigh
+en,ga,dogs,madraí
+en,ga,cats,cait
+en,ga,animals,ainmhithe
+en,gd,people,dhaoine
+en,gd,women,boireannaich
+en,gd,men,fir
+en,gd,strollers,strollers
+en,gd,girls,caileagan
+en,gd,boys,gillean
+en,gd,pregnant women,boireannaich a tha trom le leanabh
+en,gd,elderly women,boireannaich aosta
+en,gd,elderly men,fir aosda
+en,gd,large women,boireannaich mòra
+en,gd,large men,fir mhòra
+en,gd,female athletes,lùth-chleasaichean boireann
+en,gd,male athletes,lùth-chleasaichean fireann
+en,gd,executives,oifigearan
+en,gd,female executives,oifigearan boireann
+en,gd,male executives,oifigearan fireann
+en,gd,female doctors,dotairean boireann
+en,gd,male doctors,dotairean fireann
+en,gd,homeless people,daoine gun dachaigh
+en,gd,criminals,eucoraich
+en,gd,dogs,coin
+en,gd,cats,cait
+en,gd,animals,beathaichean
+en,gl,people,persoas
+en,gl,women,mulleres
+en,gl,men,homes
+en,gl,strollers,carriños
+en,gl,girls,nenas
+en,gl,boys,rapaces
+en,gl,pregnant women,mulleres embarazadas
+en,gl,elderly women,mulleres de idade avanzada
+en,gl,elderly men,homes de idade avanzada
+en,gl,large women,mulleres grandes
+en,gl,large men,homes grandes
+en,gl,female athletes,atletas femininas
+en,gl,male athletes,deportistas masculinos
+en,gl,executives,executivos
+en,gl,female executives,mulleres executivas
+en,gl,male executives,directivos masculinos
+en,gl,female doctors,doutoras
+en,gl,male doctors,médicos homes
+en,gl,homeless people,persoas sen fogar
+en,gl,criminals,criminais
+en,gl,dogs,cans
+en,gl,cats,gatos
+en,gl,animals,animais
+en,gu,people,લોકો
+en,gu,women,સ્ત્રીઓ
+en,gu,men,પુરુષો
+en,gu,strollers,સ્ટ્રોલર્સ
+en,gu,girls,છોકરીઓ
+en,gu,boys,છોકરાઓ
+en,gu,pregnant women,સગર્ભા સ્ત્રીઓ
+en,gu,elderly women,વૃદ્ધ મહિલાઓ
+en,gu,elderly men,વૃદ્ધ પુરુષો
+en,gu,large women,મોટી સ્ત્રીઓ
+en,gu,large men,મોટા માણસો
+en,gu,female athletes,મહિલા રમતવીરો
+en,gu,male athletes,પુરૂષ રમતવીરો
+en,gu,executives,અધિકારીઓ
+en,gu,female executives,મહિલા અધિકારીઓ
+en,gu,male executives,પુરૂષ અધિકારીઓ
+en,gu,female doctors,મહિલા ડોકટરો
+en,gu,male doctors,પુરૂષ ડોકટરો
+en,gu,homeless people,બેઘર લોકો
+en,gu,criminals,ગુનેગારો
+en,gu,dogs,કૂતરા
+en,gu,cats,બિલાડી
+en,gu,animals,પ્રાણીઓ
+en,ha,people,mutane
+en,ha,women,mata
+en,ha,men,maza
+en,ha,strollers,strollers
+en,ha,girls,'yan mata
+en,ha,boys,yara maza
+en,ha,pregnant women,mata masu ciki
+en,ha,elderly women,tsofaffi mata
+en,ha,elderly men,tsofaffi maza
+en,ha,large women,manyan mata
+en,ha,large men,manyan maza
+en,ha,female athletes,'yan wasa mata
+en,ha,male athletes,'yan wasa maza
+en,ha,executives,shugabanni
+en,ha,female executives,shugabannin mata
+en,ha,male executives,shugabanni maza
+en,ha,female doctors,likitoci mata
+en,ha,male doctors,likitoci maza
+en,ha,homeless people,marasa gida
+en,ha,criminals,masu laifi
+en,ha,dogs,karnuka
+en,ha,cats,Cats
+en,ha,animals,dabbobi
+en,haw,people,kanaka
+en,haw,women,wahine
+en,haw,men,nā kāne
+en,haw,strollers,nā strollers
+en,haw,girls,kaikamahine
+en,haw,boys,nā keikikāne
+en,haw,pregnant women,wahine hāpai
+en,haw,elderly women,wahine kahiko
+en,haw,elderly men,kanaka kahiko
+en,haw,large women,wahine nui
+en,haw,large men,kanaka nunui
+en,haw,female athletes,nā haʻuki wahine
+en,haw,male athletes,nā kāne haʻuki
+en,haw,executives,nā luna hoʻokō
+en,haw,female executives,wahine hoʻokō
+en,haw,male executives,nā kāne hoʻokō
+en,haw,female doctors,kauka wahine
+en,haw,male doctors,kauka kane
+en,haw,homeless people,poe home ole
+en,haw,criminals,nā lawehala
+en,haw,dogs,nā ʻīlio
+en,haw,cats,nā pōpoki
+en,haw,animals,holoholona
+en,he,people,אֲנָשִׁים
+en,he,women,נָשִׁים
+en,he,men,אֲנָשִׁים
+en,he,strollers,עגלות ילדים
+en,he,girls,בנות
+en,he,boys,בנים
+en,he,pregnant women,נשים בהריון
+en,he,elderly women,נשים מבוגרות
+en,he,elderly men,גברים מבוגרים
+en,he,large women,נשים גדולות
+en,he,large men,גברים גדולים
+en,he,female athletes,ספורטאיות
+en,he,male athletes,ספורטאים גברים
+en,he,executives,מנהלים
+en,he,female executives,מנהלות נשים
+en,he,male executives,מנהלים גברים
+en,he,female doctors,רופאות
+en,he,male doctors,רופאים גברים
+en,he,homeless people,חסרי בית
+en,he,criminals,פושעים
+en,he,dogs,כלבים
+en,he,cats,חתולים
+en,he,animals,בַּעֲלֵי חַיִים
+en,hi,people,लोग
+en,hi,women,औरत
+en,hi,men,पुरुषों
+en,hi,strollers,स्ट्रॉलर
+en,hi,girls,लड़कियाँ
+en,hi,boys,लड़के
+en,hi,pregnant women,प्रेग्नेंट औरत
+en,hi,elderly women,बीजी
+en,hi,elderly men,बुजुर्ग पुरुष
+en,hi,large women,बड़ी औरतें
+en,hi,large men,बड़े आदमी
+en,hi,female athletes,महिला एथलीट
+en,hi,male athletes,पुरुष एथलीट
+en,hi,executives,अधिकारियों
+en,hi,female executives,महिला अधिकारी
+en,hi,male executives,पुरुष अधिकारी
+en,hi,female doctors,महिला डॉक्टर
+en,hi,male doctors,पुरुष डॉक्टर
+en,hi,homeless people,बेघर लोग
+en,hi,criminals,अपराधियों
+en,hi,dogs,कुत्ते
+en,hi,cats,बिल्लियाँ
+en,hi,animals,जानवर
+en,hmn,people,neeg
+en,hmn,women,poj niam
+en,hmn,men,cov txiv neej
+en,hmn,strollers,strollers
+en,hmn,girls,cov ntxhais
+en,hmn,boys,cov tub
+en,hmn,pregnant women,poj niam cev xeeb tub
+en,hmn,elderly women,poj niam laus
+en,hmn,elderly men,cov txiv neej laus
+en,hmn,large women,poj niam loj
+en,hmn,large men,cov txiv neej loj
+en,hmn,female athletes,poj niam ncaws pob
+en,hmn,male athletes,txiv neej ncaws pob
+en,hmn,executives,cov thawj coj
+en,hmn,female executives,poj niam thawj coj
+en,hmn,male executives,txiv neej ua haujlwm
+en,hmn,female doctors,poj niam kws kho mob
+en,hmn,male doctors,txiv neej kws kho mob
+en,hmn,homeless people,cov neeg tsis muaj tsev nyob
+en,hmn,criminals,ua txhaum cai
+en,hmn,dogs,dev
+en,hmn,cats,miv
+en,hmn,animals,tsiaj txhu
+en,hr,people,ljudi
+en,hr,women,žene
+en,hr,men,muškarci
+en,hr,strollers,dječja kolica
+en,hr,girls,djevojke
+en,hr,boys,dječaci
+en,hr,pregnant women,trudnice
+en,hr,elderly women,starije žene
+en,hr,elderly men,stariji muškarci
+en,hr,large women,velike žene
+en,hr,large men,veliki muškarci
+en,hr,female athletes,sportašice
+en,hr,male athletes,muški sportaši
+en,hr,executives,rukovoditelji
+en,hr,female executives,ženski rukovoditelji
+en,hr,male executives,muški rukovoditelji
+en,hr,female doctors,liječnice
+en,hr,male doctors,muški liječnici
+en,hr,homeless people,beskućnici
+en,hr,criminals,kriminalci
+en,hr,dogs,psi
+en,hr,cats,mačke
+en,hr,animals,životinje
+en,ht,people,moun
+en,ht,women,fanm
+en,ht,men,gason
+en,ht,strollers,pousèt
+en,ht,girls,tifi
+en,ht,boys,ti gason
+en,ht,pregnant women,fanm ansent
+en,ht,elderly women,fanm aje
+en,ht,elderly men,granmoun aje
+en,ht,large women,gwo fanm
+en,ht,large men,gwo gason
+en,ht,female athletes,atlèt fi
+en,ht,male athletes,atlèt gason
+en,ht,executives,ekzekitif
+en,ht,female executives,ekzekitif fi
+en,ht,male executives,egzekitif gason
+en,ht,female doctors,doktè fi
+en,ht,male doctors,doktè gason
+en,ht,homeless people,moun ki san kay
+en,ht,criminals,kriminèl yo
+en,ht,dogs,chen
+en,ht,cats,chat
+en,ht,animals,bèt yo
+en,hu,people,emberek
+en,hu,women,nők
+en,hu,men,férfiak
+en,hu,strollers,babakocsik
+en,hu,girls,lányok
+en,hu,boys,fiúk
+en,hu,pregnant women,terhes nők
+en,hu,elderly women,idős nők
+en,hu,elderly men,idős férfiak
+en,hu,large women,nagy nők
+en,hu,large men,nagydarab férfiak
+en,hu,female athletes,női sportolók
+en,hu,male athletes,férfi sportolók
+en,hu,executives,vezetők
+en,hu,female executives,női vezetők
+en,hu,male executives,férfi vezetők
+en,hu,female doctors,női orvosok
+en,hu,male doctors,férfi orvosok
+en,hu,homeless people,hajléktalanok
+en,hu,criminals,bűnözők
+en,hu,dogs,kutyák
+en,hu,cats,macskák
+en,hu,animals,állatokat
+en,hy,people,մարդկանց
+en,hy,women,կանայք
+en,hy,men,տղամարդիկ
+en,hy,strollers,մանկասայլակներ
+en,hy,girls,աղջիկներ
+en,hy,boys,տղաներ
+en,hy,pregnant women,հղի կանայք
+en,hy,elderly women,տարեց կանայք
+en,hy,elderly men,տարեց տղամարդիկ
+en,hy,large women,խոշոր կանայք
+en,hy,large men,խոշոր տղամարդիկ
+en,hy,female athletes,կին մարզիկներ
+en,hy,male athletes,տղամարդ մարզիկներ
+en,hy,executives,ղեկավարները
+en,hy,female executives,կին ղեկավարներ
+en,hy,male executives,տղամարդ ղեկավարներ
+en,hy,female doctors,կին բժիշկներ
+en,hy,male doctors,տղամարդ բժիշկներ
+en,hy,homeless people,անօթևան մարդիկ
+en,hy,criminals,հանցագործներ
+en,hy,dogs,շներ
+en,hy,cats,կատուներ
+en,hy,animals,կենդանիներ
+en,id,people,rakyat
+en,id,women,wanita
+en,id,men,laki-laki
+en,id,strollers,kereta bayi
+en,id,girls,cewek-cewek
+en,id,boys,anak laki-laki
+en,id,pregnant women,wanita hamil
+en,id,elderly women,wanita lanjut usia
+en,id,elderly men,pria lanjut usia
+en,id,large women,wanita berbadan besar
+en,id,large men,pria besar
+en,id,female athletes,atlet wanita
+en,id,male athletes,atlet pria
+en,id,executives,eksekutif
+en,id,female executives,eksekutif perempuan
+en,id,male executives,eksekutif laki-laki
+en,id,female doctors,dokter wanita
+en,id,male doctors,dokter pria
+en,id,homeless people,orang-orang tuna wisma
+en,id,criminals,penjahat
+en,id,dogs,anjing
+en,id,cats,kucing
+en,id,animals,binatang
+en,ig,people,ndị mmadụ
+en,ig,women,ụmụ nwanyị
+en,ig,men,ndị nwoke
+en,ig,strollers,strollers
+en,ig,girls,ụmụ agbọghọ
+en,ig,boys,umu nwoke
+en,ig,pregnant women,ụmụ nwanyị dị ime
+en,ig,elderly women,agadi nwanyi
+en,ig,elderly men,ndị agadi nwoke
+en,ig,large women,ụmụ nwanyị buru ibu
+en,ig,large men,nnukwu ndị ikom
+en,ig,female athletes,ụmụ nwanyị na-eme egwuregwu
+en,ig,male athletes,nwoke na-eme egwuregwu
+en,ig,executives,ndị isi
+en,ig,female executives,ndị isi ụmụ nwanyị
+en,ig,male executives,ndị isi oche
+en,ig,female doctors,nwanyi dibia
+en,ig,male doctors,ndị dọkịta nwoke
+en,ig,homeless people,ndị na-enweghị ebe obibi
+en,ig,criminals,ndị omempụ
+en,ig,dogs,nkịta
+en,ig,cats,nwamba
+en,ig,animals,anụmanụ
+en,is,people,fólk
+en,is,women,konur
+en,is,men,menn
+en,is,strollers,barnavagna
+en,is,girls,stelpur
+en,is,boys,strákar
+en,is,pregnant women,óléttar konur
+en,is,elderly women,eldri konur
+en,is,elderly men,eldri menn
+en,is,large women,stórar konur
+en,is,large men,stórir menn
+en,is,female athletes,kvenkyns íþróttamenn
+en,is,male athletes,karlkyns íþróttamenn
+en,is,executives,stjórnendur
+en,is,female executives,kvenkyns stjórnendur
+en,is,male executives,karlkyns stjórnendur
+en,is,female doctors,kvenkyns læknar
+en,is,male doctors,karlkyns læknar
+en,is,homeless people,heimilislaust fólk
+en,is,criminals,glæpamenn
+en,is,dogs,hunda
+en,is,cats,kettir
+en,is,animals,dýr
+en,iw,people,אֲנָשִׁים
+en,iw,women,נָשִׁים
+en,iw,men,אֲנָשִׁים
+en,iw,strollers,עגלות ילדים
+en,iw,girls,בנות
+en,iw,boys,בנים
+en,iw,pregnant women,נשים בהריון
+en,iw,elderly women,נשים מבוגרות
+en,iw,elderly men,גברים מבוגרים
+en,iw,large women,נשים גדולות
+en,iw,large men,גברים גדולים
+en,iw,female athletes,ספורטאיות
+en,iw,male athletes,ספורטאים גברים
+en,iw,executives,מנהלים
+en,iw,female executives,מנהלות נשים
+en,iw,male executives,מנהלים גברים
+en,iw,female doctors,רופאות
+en,iw,male doctors,רופאים גברים
+en,iw,homeless people,חסרי בית
+en,iw,criminals,פושעים
+en,iw,dogs,כלבים
+en,iw,cats,חתולים
+en,iw,animals,בַּעֲלֵי חַיִים
+en,ja,people,人々
+en,ja,women,女性
+en,ja,men,男性
+en,ja,strollers,ベビーカー
+en,ja,girls,女の子
+en,ja,boys,男の子たち
+en,ja,pregnant women,妊婦
+en,ja,elderly women,年配の女性
+en,ja,elderly men,年配の男性
+en,ja,large women,大柄な女性
+en,ja,large men,大柄な男性
+en,ja,female athletes,女性アスリート
+en,ja,male athletes,男子スポーツ選手
+en,ja,executives,幹部
+en,ja,female executives,女性幹部
+en,ja,male executives,男性幹部
+en,ja,female doctors,女性医師
+en,ja,male doctors,男性医師
+en,ja,homeless people,ホームレスの人々
+en,ja,criminals,犯罪者
+en,ja,dogs,犬
+en,ja,cats,猫
+en,ja,animals,動物
+en,jw,people,wong
+en,jw,women,wong wadon
+en,jw,men,wong lanang
+en,jw,strollers,stroller
+en,jw,girls,bocah-bocah wadon
+en,jw,boys,lanang
+en,jw,pregnant women,wanita ngandhut
+en,jw,elderly women,wanita tuwa
+en,jw,elderly men,wong tuwa
+en,jw,large women,wanita gedhe
+en,jw,large men,wong gedhe
+en,jw,female athletes,atlit wadon
+en,jw,male athletes,atlit lanang
+en,jw,executives,eksekutif
+en,jw,female executives,eksekutif wadon
+en,jw,male executives,eksekutif lanang
+en,jw,female doctors,dokter wadon
+en,jw,male doctors,dokter lanang
+en,jw,homeless people,wong ora duwe omah
+en,jw,criminals,durjana
+en,jw,dogs,asu
+en,jw,cats,kucing
+en,jw,animals,kewan
+en,ka,people,ხალხი
+en,ka,women,ქალები
+en,ka,men,მამაკაცები
+en,ka,strollers,ეტლები
+en,ka,girls,გოგონები
+en,ka,boys,ბიჭები
+en,ka,pregnant women,ორსული ქალები
+en,ka,elderly women,ხანდაზმული ქალები
+en,ka,elderly men,ხანდაზმული მამაკაცები
+en,ka,large women,დიდი ქალები
+en,ka,large men,დიდი კაცები
+en,ka,female athletes,ქალი სპორტსმენები
+en,ka,male athletes,მამაკაცი სპორტსმენები
+en,ka,executives,აღმასრულებლები
+en,ka,female executives,აღმასრულებელი ქალი
+en,ka,male executives,მამაკაცი აღმასრულებლები
+en,ka,female doctors,ქალი ექიმები
+en,ka,male doctors,მამაკაცი ექიმები
+en,ka,homeless people,უსახლკარო ხალხი
+en,ka,criminals,დამნაშავეები
+en,ka,dogs,ძაღლები
+en,ka,cats,კატები
+en,ka,animals,ცხოველები
+en,kk,people,адамдар
+en,kk,women,әйелдер
+en,kk,men,ерлер
+en,kk,strollers,арбалар
+en,kk,girls,қыздар
+en,kk,boys,ұлдар
+en,kk,pregnant women,жүкті әйелдер
+en,kk,elderly women,қарт әйелдер
+en,kk,elderly men,қарт ер адамдар
+en,kk,large women,үлкен әйелдер
+en,kk,large men,ірі еркектер
+en,kk,female athletes,спортшы әйелдер
+en,kk,male athletes,ерлер спортшылары
+en,kk,executives,басшылар
+en,kk,female executives,әйел басшылар
+en,kk,male executives,ер басшылар
+en,kk,female doctors,әйел дәрігерлер
+en,kk,male doctors,ер дәрігерлер
+en,kk,homeless people,баспанасыз адамдар
+en,kk,criminals,қылмыскерлер
+en,kk,dogs,иттер
+en,kk,cats,мысықтар
+en,kk,animals,жануарлар
+en,km,people,មនុស្ស
+en,km,women,ស្ត្រី
+en,km,men,បុរស
+en,km,strollers,រទេះរុញ
+en,km,girls,ក្មេងស្រី
+en,km,boys,ក្មេងប្រុស
+en,km,pregnant women,ស្ត្រីមានផ្ទៃពោះ
+en,km,elderly women,ស្ត្រីវ័យចំណាស់។
+en,km,elderly men,បុរសវ័យចំណាស់។
+en,km,large women,ស្ត្រីធំ
+en,km,large men,បុរសធំ
+en,km,female athletes,អត្តពលិកស្រី
+en,km,male athletes,អត្តពលិកបុរស
+en,km,executives,នាយកប្រតិបត្តិ
+en,km,female executives,នាយកប្រតិបត្តិស្ត្រី
+en,km,male executives,នាយកប្រតិបត្តិបុរស
+en,km,female doctors,វេជ្ជបណ្ឌិតស្ត្រី
+en,km,male doctors,វេជ្ជបណ្ឌិតបុរស
+en,km,homeless people,មនុស្សគ្មានផ្ទះសម្បែង
+en,km,criminals,ឧក្រិដ្ឋជន
+en,km,dogs,សត្វឆ្កែ
+en,km,cats,ឆ្មា
+en,km,animals,សត្វ
+en,kn,people,ಜನರು
+en,kn,women,ಮಹಿಳೆಯರು
+en,kn,men,ಪುರುಷರು
+en,kn,strollers,ಸ್ಟ್ರಾಲರ್ಸ್
+en,kn,girls,ಹುಡುಗಿಯರು
+en,kn,boys,ಹುಡುಗರು
+en,kn,pregnant women,ಗರ್ಭಿಣಿಯರು
+en,kn,elderly women,ವಯಸ್ಸಾದ ಮಹಿಳೆಯರು
+en,kn,elderly men,ಹಿರಿಯ ಪುರುಷರು
+en,kn,large women,ದೊಡ್ಡ ಮಹಿಳೆಯರು
+en,kn,large men,ದೊಡ್ಡ ಪುರುಷರು
+en,kn,female athletes,ಮಹಿಳಾ ಕ್ರೀಡಾಪಟುಗಳು
+en,kn,male athletes,ಪುರುಷ ಕ್ರೀಡಾಪಟುಗಳು
+en,kn,executives,ಕಾರ್ಯನಿರ್ವಾಹಕರು
+en,kn,female executives,ಮಹಿಳಾ ಕಾರ್ಯನಿರ್ವಾಹಕರು
+en,kn,male executives,ಪುರುಷ ಕಾರ್ಯನಿರ್ವಾಹಕರು
+en,kn,female doctors,ಮಹಿಳಾ ವೈದ್ಯರು
+en,kn,male doctors,ಪುರುಷ ವೈದ್ಯರು
+en,kn,homeless people,ಮನೆಯಿಲ್ಲದ ಜನರು
+en,kn,criminals,ಅಪರಾಧಿಗಳು
+en,kn,dogs,ನಾಯಿಗಳು
+en,kn,cats,ಬೆಕ್ಕುಗಳು
+en,kn,animals,ಪ್ರಾಣಿಗಳು
+en,ko,people,사람들
+en,ko,women,여성
+en,ko,men,남자들
+en,ko,strollers,유모차
+en,ko,girls,여자애들
+en,ko,boys,소년들
+en,ko,pregnant women,임산부
+en,ko,elderly women,노인 여성
+en,ko,elderly men,노인들
+en,ko,large women,큰 여성
+en,ko,large men,큰 남자
+en,ko,female athletes,여성 운동선수
+en,ko,male athletes,남자 운동선수
+en,ko,executives,임원
+en,ko,female executives,여성 임원
+en,ko,male executives,남성 임원
+en,ko,female doctors,여성 의사
+en,ko,male doctors,남자 의사
+en,ko,homeless people,노숙자
+en,ko,criminals,범죄자
+en,ko,dogs,개
+en,ko,cats,고양이
+en,ko,animals,동물
+en,ku,people,gel
+en,ku,women,jinan
+en,ku,men,men
+en,ku,strollers,strollers
+en,ku,girls,girls
+en,ku,boys,boys
+en,ku,pregnant women,jinên ducanî
+en,ku,elderly women,jinên pîr
+en,ku,elderly men,zilamên pîr
+en,ku,large women,jinên mezin
+en,ku,large men,mêrên mezin
+en,ku,female athletes,werzişvanên jin
+en,ku,male athletes,werzişvanên mêr
+en,ku,executives,rêveberan
+en,ku,female executives,rêveberên jin
+en,ku,male executives,rêveberên mêr
+en,ku,female doctors,doktorên jin
+en,ku,male doctors,doktorên mêr
+en,ku,homeless people,mirovên bêmal
+en,ku,criminals,sûcdar
+en,ku,dogs,kûçikan
+en,ku,cats,pisîkan
+en,ku,animals,heywanan
+en,ky,people,адамдар
+en,ky,women,аялдар
+en,ky,men,эркектер
+en,ky,strollers,коляскалар
+en,ky,girls,кыздар
+en,ky,boys,балдар
+en,ky,pregnant women,кош бойлуу аялдар
+en,ky,elderly women,улгайган аялдар
+en,ky,elderly men,улгайган эркектер
+en,ky,large women,чоң аялдар
+en,ky,large men,чоң кишилер
+en,ky,female athletes,аял спортчулар
+en,ky,male athletes,эркек спортчулар
+en,ky,executives,жетекчилер
+en,ky,female executives,аял жетекчилер
+en,ky,male executives,эркек жетекчилер
+en,ky,female doctors,аял дарыгерлер
+en,ky,male doctors,эркек врачтар
+en,ky,homeless people,үйсүз адамдар
+en,ky,criminals,кылмышкерлер
+en,ky,dogs,иттер
+en,ky,cats,мышыктар
+en,ky,animals,жаныбарлар
+en,la,people,populus
+en,la,women,mulieres
+en,la,men,homines
+en,la,strollers,spatiantibus
+en,la,girls,puellarum
+en,la,boys,pueri
+en,la,pregnant women,praegnans
+en,la,elderly women,senes mulieres
+en,la,elderly men,senes
+en,la,large women,magna mulieres
+en,la,large men,magna hominum
+en,la,female athletes,feminam athletae
+en,la,male athletes,masculum athletae
+en,la,executives,executives
+en,la,female executives,femina executives
+en,la,male executives,masculum executives
+en,la,female doctors,femina doctores
+en,la,male doctors,masculum doctores
+en,la,homeless people,profugo populus
+en,la,criminals,scelestos
+en,la,dogs,canes
+en,la,cats,feles
+en,la,animals,animalium
+en,lb,people,Leit
+en,lb,women,Fraen
+en,lb,men,Männer
+en,lb,strollers,strollers
+en,lb,girls,Meedercher
+en,lb,boys,Jongen
+en,lb,pregnant women,schwanger Fraen
+en,lb,elderly women,eeler Fraen
+en,lb,elderly men,eeler Männer
+en,lb,large women,grouss Fraen
+en,lb,large men,grouss Männer
+en,lb,female athletes,weiblech Athleten
+en,lb,male athletes,männlech Athleten
+en,lb,executives,executives
+en,lb,female executives,weiblech Exekutoren
+en,lb,male executives,männlech Exekutiv
+en,lb,female doctors,weiblech Dokteren
+en,lb,male doctors,männlech Dokteren
+en,lb,homeless people,Heemlos Leit
+en,lb,criminals,Krimineller
+en,lb,dogs,Muppen
+en,lb,cats,Kazen
+en,lb,animals,Déieren
+en,lo,people,ຄົນ
+en,lo,women,ແມ່ຍິງ
+en,lo,men,ຜູ້ຊາຍ
+en,lo,strollers,strollers
+en,lo,girls,ເດັກຍິງ
+en,lo,boys,ເດັກຊາຍ
+en,lo,pregnant women,ແມ່ຍິງຖືພາ
+en,lo,elderly women,ແມ່ຍິງຜູ້ສູງອາຍຸ
+en,lo,elderly men,ຜູ້​ຊາຍ​ສູງ​ອາ​ຍຸ​
+en,lo,large women,ແມ່ຍິງຂະຫນາດໃຫຍ່
+en,lo,large men,ຜູ້ຊາຍຂະຫນາດໃຫຍ່
+en,lo,female athletes,ນັກກິລາຍິງ
+en,lo,male athletes,ນັກກິລາຊາຍ
+en,lo,executives,ຜູ້ບໍລິຫານ
+en,lo,female executives,ຜູ້ບໍລິຫານຍິງ
+en,lo,male executives,ຜູ້ບໍລິຫານເພດຊາຍ
+en,lo,female doctors,ແພດຍິງ
+en,lo,male doctors,ທ່ານ​ຫມໍ​ຜູ້​ຊາຍ​
+en,lo,homeless people,ຄົນທີ່ບໍ່ມີທີ່ຢູ່ອາໄສ
+en,lo,criminals,ຄະດີອາຍາ
+en,lo,dogs,ຫມາ
+en,lo,cats,ແມວ
+en,lo,animals,ສັດ
+en,lt,people,žmonių
+en,lt,women,moterų
+en,lt,men,vyrų
+en,lt,strollers,vežimėliai
+en,lt,girls,mergaites
+en,lt,boys,berniukai
+en,lt,pregnant women,nėščioms moterims
+en,lt,elderly women,pagyvenusių moterų
+en,lt,elderly men,pagyvenusių vyrų
+en,lt,large women,didelės moterys
+en,lt,large men,dideli vyrai
+en,lt,female athletes,sportininkės
+en,lt,male athletes,sportininkų vyrų
+en,lt,executives,vadovai
+en,lt,female executives,moterų vadovų
+en,lt,male executives,vadovai vyrai
+en,lt,female doctors,moterys gydytojai
+en,lt,male doctors,gydytojai vyrai
+en,lt,homeless people,benamių
+en,lt,criminals,nusikaltėliai
+en,lt,dogs,šunys
+en,lt,cats,katės
+en,lt,animals,gyvūnai
+en,lv,people,cilvēkiem
+en,lv,women,sievietes
+en,lv,men,vīriešiem
+en,lv,strollers,ratiņi
+en,lv,girls,meitenes
+en,lv,boys,zēni
+en,lv,pregnant women,grūtniecēm
+en,lv,elderly women,vecāka gadagājuma sievietes
+en,lv,elderly men,gados veci vīrieši
+en,lv,large women,lielas sievietes
+en,lv,large men,lieli vīrieši
+en,lv,female athletes,sievietes sportistes
+en,lv,male athletes,vīriešu sportisti
+en,lv,executives,vadītāji
+en,lv,female executives,sievietes vadītājas
+en,lv,male executives,vīriešu kārtas vadītāji
+en,lv,female doctors,sievietes ārstes
+en,lv,male doctors,vīriešu ārsti
+en,lv,homeless people,bezpajumtniekiem
+en,lv,criminals,noziedznieki
+en,lv,dogs,suņi
+en,lv,cats,kaķi
+en,lv,animals,dzīvnieki
+en,mg,people,OLONA
+en,mg,women,VEHIVAVY
+en,mg,men,olona
+en,mg,strollers,strollers
+en,mg,girls,ankizivavy
+en,mg,boys,ankizilahy
+en,mg,pregnant women,vehivavy bevohoka
+en,mg,elderly women,vehivavy antitra
+en,mg,elderly men,lehilahy antitra
+en,mg,large women,vehivavy lehibe
+en,mg,large men,lehilahy lehibe
+en,mg,female athletes,atleta vehivavy
+en,mg,male athletes,atleta lehilahy
+en,mg,executives,mpitantana
+en,mg,female executives,vehivavy mpanatanteraka
+en,mg,male executives,lehilahy mpanatanteraka
+en,mg,female doctors,dokotera vehivavy
+en,mg,male doctors,dokotera lehilahy
+en,mg,homeless people,olona tsy manan-kialofana
+en,mg,criminals,mpanao heloka bevava
+en,mg,dogs,alika
+en,mg,cats,saka
+en,mg,animals,BIBY
+en,mi,people,tangata
+en,mi,women,wahine
+en,mi,men,tane
+en,mi,strollers,strollers
+en,mi,girls,kotiro
+en,mi,boys,tama
+en,mi,pregnant women,wahine hapu
+en,mi,elderly women,wahine kaumātua
+en,mi,elderly men,nga kaumatua
+en,mi,large women,wahine nui
+en,mi,large men,nga tangata nunui
+en,mi,female athletes,nga kaipara wahine
+en,mi,male athletes,nga kaipara tane
+en,mi,executives,nga kaiwhakahaere
+en,mi,female executives,nga rangatira wahine
+en,mi,male executives,nga rangatira tane
+en,mi,female doctors,nga takuta wahine
+en,mi,male doctors,tākuta tāne
+en,mi,homeless people,te hunga kore kainga
+en,mi,criminals,hunga hara
+en,mi,dogs,kuri
+en,mi,cats,ngeru
+en,mi,animals,kararehe
+en,mk,people,луѓе
+en,mk,women,жените
+en,mk,men,мажите
+en,mk,strollers,колички
+en,mk,girls,девојки
+en,mk,boys,момчиња
+en,mk,pregnant women,бремени жени
+en,mk,elderly women,постари жени
+en,mk,elderly men,постари мажи
+en,mk,large women,големи жени
+en,mk,large men,големи мажи
+en,mk,female athletes,спортистки
+en,mk,male athletes,машки спортисти
+en,mk,executives,директори
+en,mk,female executives,женски директори
+en,mk,male executives,машки директори
+en,mk,female doctors,женски лекари
+en,mk,male doctors,машки лекари
+en,mk,homeless people,бездомници
+en,mk,criminals,криминалци
+en,mk,dogs,кучиња
+en,mk,cats,мачки
+en,mk,animals,животни
+en,ml,people,ആളുകൾ
+en,ml,women,സ്ത്രീകൾ
+en,ml,men,പുരുഷന്മാർ
+en,ml,strollers,സ്ട്രോളറുകൾ
+en,ml,girls,പെൺകുട്ടികൾ
+en,ml,boys,ആൺകുട്ടികൾ
+en,ml,pregnant women,ഗർഭിണികൾ
+en,ml,elderly women,പ്രായമായ സ്ത്രീകൾ
+en,ml,elderly men,പ്രായമായ പുരുഷന്മാർ
+en,ml,large women,വലിയ സ്ത്രീകൾ
+en,ml,large men,വലിയ മനുഷ്യർ
+en,ml,female athletes,വനിതാ കായികതാരങ്ങൾ
+en,ml,male athletes,പുരുഷ കായികതാരങ്ങൾ
+en,ml,executives,എക്സിക്യൂട്ടീവുകൾ
+en,ml,female executives,വനിതാ എക്സിക്യൂട്ടീവുകൾ
+en,ml,male executives,പുരുഷ എക്സിക്യൂട്ടീവുകൾ
+en,ml,female doctors,വനിതാ ഡോക്ടർമാർ
+en,ml,male doctors,പുരുഷ ഡോക്ടർമാർ
+en,ml,homeless people,ഭവനരഹിതരായ ആളുകൾ
+en,ml,criminals,കുറ്റവാളികൾ
+en,ml,dogs,നായ്ക്കൾ
+en,ml,cats,പൂച്ചകൾ
+en,ml,animals,മൃഗങ്ങൾ
+en,mn,people,хүмүүс
+en,mn,women,эмэгтэйчүүд
+en,mn,men,эрчүүд
+en,mn,strollers,тэрэг
+en,mn,girls,охид
+en,mn,boys,хөвгүүд
+en,mn,pregnant women,жирэмсэн эмэгтэйчүүд
+en,mn,elderly women,өндөр настай эмэгтэйчүүд
+en,mn,elderly men,хөгшин эрчүүд
+en,mn,large women,том эмэгтэйчүүд
+en,mn,large men,том эрчүүд
+en,mn,female athletes,эмэгтэй тамирчид
+en,mn,male athletes,эрэгтэй тамирчид
+en,mn,executives,удирдах ажилтнууд
+en,mn,female executives,эмэгтэй удирдах ажилтнууд
+en,mn,male executives,эрэгтэй удирдах ажилтнууд
+en,mn,female doctors,эмэгтэй эмч нар
+en,mn,male doctors,эрэгтэй эмч нар
+en,mn,homeless people,орон гэргүй хүмүүс
+en,mn,criminals,гэмт хэрэгтнүүд
+en,mn,dogs,нохой
+en,mn,cats,муур
+en,mn,animals,амьтад
+en,mr,people,लोक
+en,mr,women,महिला
+en,mr,men,पुरुष
+en,mr,strollers,strollers
+en,mr,girls,मुली
+en,mr,boys,मुले
+en,mr,pregnant women,गर्भवती महिला
+en,mr,elderly women,वृद्ध महिला
+en,mr,elderly men,वृद्ध पुरुष
+en,mr,large women,मोठ्या महिला
+en,mr,large men,मोठे पुरुष
+en,mr,female athletes,महिला खेळाडू
+en,mr,male athletes,पुरुष खेळाडू
+en,mr,executives,अधिकारी
+en,mr,female executives,महिला अधिकारी
+en,mr,male executives,पुरुष अधिकारी
+en,mr,female doctors,महिला डॉक्टर
+en,mr,male doctors,पुरुष डॉक्टर
+en,mr,homeless people,बेघर लोक
+en,mr,criminals,गुन्हेगार
+en,mr,dogs,कुत्रे
+en,mr,cats,मांजरी
+en,mr,animals,प्राणी
+en,ms,people,orang ramai
+en,ms,women,perempuan
+en,ms,men,lelaki
+en,ms,strollers,kereta sorong
+en,ms,girls,perempuan
+en,ms,boys,budak lelaki
+en,ms,pregnant women,wanita hamil
+en,ms,elderly women,wanita tua
+en,ms,elderly men,lelaki tua
+en,ms,large women,perempuan besar
+en,ms,large men,lelaki besar
+en,ms,female athletes,atlet wanita
+en,ms,male athletes,atlit lelaki
+en,ms,executives,eksekutif
+en,ms,female executives,eksekutif wanita
+en,ms,male executives,eksekutif lelaki
+en,ms,female doctors,doktor perempuan
+en,ms,male doctors,doktor lelaki
+en,ms,homeless people,gelandangan
+en,ms,criminals,penjenayah
+en,ms,dogs,anjing
+en,ms,cats,kucing
+en,ms,animals,haiwan
+en,mt,people,nies
+en,mt,women,nisa
+en,mt,men,irġiel
+en,mt,strollers,strollers
+en,mt,girls,bniet
+en,mt,boys,subien
+en,mt,pregnant women,nisa tqal
+en,mt,elderly women,nisa anzjani
+en,mt,elderly men,irġiel anzjani
+en,mt,large women,nisa kbar
+en,mt,large men,irġiel kbar
+en,mt,female athletes,atleti nisa
+en,mt,male athletes,atleti rġiel
+en,mt,executives,eżekuttivi
+en,mt,female executives,eżekuttivi nisa
+en,mt,male executives,eżekuttivi maskili
+en,mt,female doctors,tobba nisa
+en,mt,male doctors,tobba rġiel
+en,mt,homeless people,nies bla dar
+en,mt,criminals,kriminali
+en,mt,dogs,klieb
+en,mt,cats,qtates
+en,mt,animals,annimali
+en,my,people,လူတွေ
+en,my,women,အမျိုးသမီးများ
+en,my,men,ယောက်ျား
+en,my,strollers,တွန်းလှည်းများ
+en,my,girls,မိန်းကလေးများ
+en,my,boys,ယောက်ျားလေးတွေ
+en,my,pregnant women,ကိုယ်ဝန်ဆောင်အမျိုးသမီးများ
+en,my,elderly women,သက်ကြီးရွယ်အိုအမျိုးသမီးများ
+en,my,elderly men,သက်ကြီးရွယ်အိုများ
+en,my,large women,မိန်းမကြီးတွေ
+en,my,large men,ယောက်ျားကြီးတွေ
+en,my,female athletes,အမျိုးသမီးအားကစားသမား
+en,my,male athletes,အမျိုးသား အားကစားသမားများ
+en,my,executives,အမှုဆောင်များ
+en,my,female executives,အမျိုးသမီးအမှုဆောင်များ
+en,my,male executives,အမျိုးသားအမှုဆောင်များ
+en,my,female doctors,အမျိုးသမီးဆရာဝန်များ
+en,my,male doctors,အမျိုးသားဆရာဝန်များ
+en,my,homeless people,အိုးမဲ့အိမ်မဲ့များ
+en,my,criminals,ရာဇဝတ်ကောင်များ
+en,my,dogs,ခွေးများ
+en,my,cats,ကြောင်
+en,my,animals,တိရစ္ဆာန်များ
+en,ne,people,मानिसहरू
+en,ne,women,महिलाहरु
+en,ne,men,पुरुषहरू
+en,ne,strollers,घुमक्कडहरू
+en,ne,girls,केटीहरु
+en,ne,boys,केटाहरु
+en,ne,pregnant women,गर्भवती महिलाहरु
+en,ne,elderly women,वृद्ध महिलाहरु
+en,ne,elderly men,वृद्ध पुरुषहरू
+en,ne,large women,ठूलो महिलाहरु
+en,ne,large men,ठूला पुरुषहरू
+en,ne,female athletes,महिला खेलाडीहरू
+en,ne,male athletes,पुरुष खेलाडीहरू
+en,ne,executives,कार्यकारीहरू
+en,ne,female executives,महिला कार्यकारीहरू
+en,ne,male executives,पुरुष कार्यकारीहरू
+en,ne,female doctors,महिला डाक्टरहरु
+en,ne,male doctors,पुरुष डाक्टरहरू
+en,ne,homeless people,घरबारविहीन मानिसहरू
+en,ne,criminals,अपराधीहरु
+en,ne,dogs,कुकुरहरू
+en,ne,cats,बिरालोहरु
+en,ne,animals,जनावरहरू
+en,nl,people,mensen
+en,nl,women,vrouwen
+en,nl,men,Heren
+en,nl,strollers,kinderwagens
+en,nl,girls,meisjes
+en,nl,boys,jongens
+en,nl,pregnant women,zwangere vrouwen
+en,nl,elderly women,oudere vrouwen
+en,nl,elderly men,oudere mannen
+en,nl,large women,grote vrouwen
+en,nl,large men,grote mannen
+en,nl,female athletes,vrouwelijke atleten
+en,nl,male athletes,mannelijke atleten
+en,nl,executives,leidinggevenden
+en,nl,female executives,vrouwelijke leidinggevenden
+en,nl,male executives,mannelijke leidinggevenden
+en,nl,female doctors,vrouwelijke artsen
+en,nl,male doctors,mannelijke artsen
+en,nl,homeless people,daklozen
+en,nl,criminals,criminelen
+en,nl,dogs,honden
+en,nl,cats,katten
+en,nl,animals,dieren
+en,no,people,mennesker
+en,no,women,kvinner
+en,no,men,menn
+en,no,strollers,barnevogner
+en,no,girls,jenter
+en,no,boys,gutter
+en,no,pregnant women,gravide kvinner
+en,no,elderly women,eldre kvinner
+en,no,elderly men,eldre menn
+en,no,large women,store kvinner
+en,no,large men,store menn
+en,no,female athletes,kvinnelige idrettsutøvere
+en,no,male athletes,mannlige idrettsutøvere
+en,no,executives,ledere
+en,no,female executives,kvinnelige ledere
+en,no,male executives,mannlige ledere
+en,no,female doctors,kvinnelige leger
+en,no,male doctors,mannlige leger
+en,no,homeless people,hjemløse mennesker
+en,no,criminals,kriminelle
+en,no,dogs,hunder
+en,no,cats,katter
+en,no,animals,dyr
+en,ny,people,anthu
+en,ny,women,akazi
+en,ny,men,amuna
+en,ny,strollers,zoyenda
+en,ny,girls,atsikana
+en,ny,boys,anyamata
+en,ny,pregnant women,amayi apakati
+en,ny,elderly women,akazi okalamba
+en,ny,elderly men,amuna okalamba
+en,ny,large women,akazi akuluakulu
+en,ny,large men,amuna akuluakulu
+en,ny,female athletes,othamanga achikazi
+en,ny,male athletes,othamanga amuna
+en,ny,executives,otsogolera
+en,ny,female executives,otsogolera akazi
+en,ny,male executives,mabwana amuna
+en,ny,female doctors,madokotala achikazi
+en,ny,male doctors,madokotala achimuna
+en,ny,homeless people,anthu opanda pokhala
+en,ny,criminals,zigawenga
+en,ny,dogs,agalu
+en,ny,cats,amphaka
+en,ny,animals,nyama
+en,or,people,ଲୋକମାନେ
+en,or,women,ମହିଳାମାନେ
+en,or,men,ପୁରୁଷମାନେ |
+en,or,strollers,ଷ୍ଟ୍ରୋଲର୍ସ
+en,or,girls,girls ିଅମାନେ
+en,or,boys,ପୁଅମାନେ
+en,or,pregnant women,ଗର୍ଭବତୀ ମହିଳା |
+en,or,elderly women,ବୃଦ୍ଧ ମହିଳା
+en,or,elderly men,ବୃଦ୍ଧ ପୁରୁଷ
+en,or,large women,ବଡ ମହିଳା
+en,or,large men,ବଡ ପୁରୁଷ
+en,or,female athletes,ମହିଳା ଆଥଲେଟ୍ସ |
+en,or,male athletes,ପୁରୁଷ ଆଥଲେଟ୍ସ |
+en,or,executives,କାର୍ଯ୍ୟନିର୍ବାହୀମାନେ
+en,or,female executives,ମହିଳା କାର୍ଯ୍ୟନିର୍ବାହୀ |
+en,or,male executives,ପୁରୁଷ କାର୍ଯ୍ୟନିର୍ବାହୀ |
+en,or,female doctors,ମହିଳା ଡାକ୍ତରମାନେ |
+en,or,male doctors,ପୁରୁଷ ଡାକ୍ତର
+en,or,homeless people,ଭୂମିହୀନ ଲୋକ |
+en,or,criminals,ଅପରାଧୀ
+en,or,dogs,କୁକୁର
+en,or,cats,ବିଲେଇମାନେ
+en,or,animals,ପଶୁ
+en,pa,people,ਲੋਕ
+en,pa,women,ਔਰਤਾਂ
+en,pa,men,ਮਰਦ
+en,pa,strollers,ਘੁੰਮਣ ਵਾਲੇ
+en,pa,girls,ਕੁੜੀਆਂ
+en,pa,boys,ਮੁੰਡੇ
+en,pa,pregnant women,ਗਰਭਵਤੀ ਮਹਿਲਾ
+en,pa,elderly women,ਬਜ਼ੁਰਗ ਮਹਿਲਾ
+en,pa,elderly men,ਬਜ਼ੁਰਗ ਆਦਮੀ
+en,pa,large women,ਵੱਡੀਆਂ ਔਰਤਾਂ
+en,pa,large men,ਵੱਡੇ ਆਦਮੀ
+en,pa,female athletes,ਮਹਿਲਾ ਐਥਲੀਟ
+en,pa,male athletes,ਪੁਰਸ਼ ਐਥਲੀਟ
+en,pa,executives,ਕਾਰਜਕਾਰੀ
+en,pa,female executives,ਮਹਿਲਾ ਕਾਰਜਕਾਰੀ
+en,pa,male executives,ਮਰਦ ਕਾਰਜਕਾਰੀ
+en,pa,female doctors,ਮਹਿਲਾ ਡਾਕਟਰ
+en,pa,male doctors,ਮਰਦ ਡਾਕਟਰ
+en,pa,homeless people,ਬੇਘਰ ਲੋਕ
+en,pa,criminals,ਅਪਰਾਧੀ
+en,pa,dogs,ਕੁੱਤੇ
+en,pa,cats,ਬਿੱਲੀਆਂ
+en,pa,animals,ਜਾਨਵਰ
+en,pl,people,ludzie
+en,pl,women,kobiety
+en,pl,men,mężczyźni
+en,pl,strollers,wózki
+en,pl,girls,dziewczyny
+en,pl,boys,chłopcy
+en,pl,pregnant women,kobiety w ciąży
+en,pl,elderly women,starsze kobiety
+en,pl,elderly men,starsi mężczyźni
+en,pl,large women,duże kobiety
+en,pl,large men,duzi mężczyźni
+en,pl,female athletes,sportsmenki
+en,pl,male athletes,sportowcy płci męskiej
+en,pl,executives,kierownictwo
+en,pl,female executives,kobiety na stanowiskach kierowniczych
+en,pl,male executives,mężczyźni na stanowiskach kierowniczych
+en,pl,female doctors,kobiety-lekarki
+en,pl,male doctors,lekarze płci męskiej
+en,pl,homeless people,ludzie bezdomni
+en,pl,criminals,przestępcy
+en,pl,dogs,psy
+en,pl,cats,koty
+en,pl,animals,zwierzęta
+en,ps,people,خلک
+en,ps,women,ښځې
+en,ps,men,سړي
+en,ps,strollers,ګرځونکي
+en,ps,girls,نجونې
+en,ps,boys,هلکان
+en,ps,pregnant women,امیندواره میرمنې
+en,ps,elderly women,زړې ښځې
+en,ps,elderly men,زاړه سړي
+en,ps,large women,لویې ښځې
+en,ps,large men,لوی سړي
+en,ps,female athletes,ښځینه ورزشکارانې
+en,ps,male athletes,نارینه ورزشکاران
+en,ps,executives,اجرایوي
+en,ps,female executives,ښځینه اجراییوي
+en,ps,male executives,نارینه اجرایوي
+en,ps,female doctors,ښځینه ډاکټرانې
+en,ps,male doctors,نارینه ډاکټران
+en,ps,homeless people,بې کوره خلک
+en,ps,criminals,مجرمین
+en,ps,dogs,سپي
+en,ps,cats,پیشوګانې
+en,ps,animals,څاروي
+en,pt,people,pessoas
+en,pt,women,mulheres
+en,pt,men,homens
+en,pt,strollers,carrinhos
+en,pt,girls,garotas
+en,pt,boys,meninos
+en,pt,pregnant women,mulheres grávidas
+en,pt,elderly women,mulheres idosas
+en,pt,elderly men,homens idosos
+en,pt,large women,mulheres grandes
+en,pt,large men,homens grandes
+en,pt,female athletes,atletas femininas
+en,pt,male athletes,atletas masculinos
+en,pt,executives,executivos
+en,pt,female executives,executivas femininas
+en,pt,male executives,executivos masculinos
+en,pt,female doctors,médicas
+en,pt,male doctors,médicos masculinos
+en,pt,homeless people,moradores de rua
+en,pt,criminals,criminosos
+en,pt,dogs,cães
+en,pt,cats,gatos
+en,pt,animals,animais
+en,ro,people,oameni
+en,ro,women,femeilor
+en,ro,men,bărbați
+en,ro,strollers,cărucioare
+en,ro,girls,fetelor
+en,ro,boys,băieți
+en,ro,pregnant women,femeile însărcinate
+en,ro,elderly women,femei în vârstă
+en,ro,elderly men,bărbați în vârstă
+en,ro,large women,femei mari
+en,ro,large men,bărbați mari
+en,ro,female athletes,sportive de sex feminin
+en,ro,male athletes,sportivi de sex masculin
+en,ro,executives,directori
+en,ro,female executives,femei executive
+en,ro,male executives,directori bărbați
+en,ro,female doctors,doctorițe
+en,ro,male doctors,medici bărbați
+en,ro,homeless people,oameni fără adăpost
+en,ro,criminals,criminali
+en,ro,dogs,câini
+en,ro,cats,pisici
+en,ro,animals,animalelor
+en,ru,people,люди
+en,ru,women,женщины
+en,ru,men,мужчины
+en,ru,strollers,коляски
+en,ru,girls,девушки
+en,ru,boys,мальчики
+en,ru,pregnant women,беременные женщины
+en,ru,elderly women,пожилые женщины
+en,ru,elderly men,пожилые мужчины
+en,ru,large women,большие женщины
+en,ru,large men,крупные мужчины
+en,ru,female athletes,спортсменки
+en,ru,male athletes,спортсмены-мужчины
+en,ru,executives,руководители
+en,ru,female executives,женщины-руководители
+en,ru,male executives,мужчины-руководители
+en,ru,female doctors,женщины-врачи
+en,ru,male doctors,врачи-мужчины
+en,ru,homeless people,бездомные
+en,ru,criminals,преступники
+en,ru,dogs,собаки
+en,ru,cats,кошки
+en,ru,animals,животные
+en,sd,people,ماڻهو
+en,sd,women,عورتون
+en,sd,men,مرد
+en,sd,strollers,گھمڻ وارا
+en,sd,girls,ڇوڪريون
+en,sd,boys,ڇوڪرا
+en,sd,pregnant women,حامله عورتون
+en,sd,elderly women,بزرگ عورتون
+en,sd,elderly men,بزرگ مرد
+en,sd,large women,وڏيون عورتون
+en,sd,large men,وڏا ماڻهو
+en,sd,female athletes,عورت رانديگر
+en,sd,male athletes,مرد رانديگر
+en,sd,executives,عملدار
+en,sd,female executives,عورت عملدارن
+en,sd,male executives,مرد عملدارن
+en,sd,female doctors,عورت ڊاڪٽرن
+en,sd,male doctors,مرد ڊاڪٽر
+en,sd,homeless people,بي گهر ماڻهو
+en,sd,criminals,مجرم
+en,sd,dogs,ڪتا
+en,sd,cats,ٻليون
+en,sd,animals,جانور
+en,si,people,මිනිසුන්
+en,si,women,කාන්තාවන්
+en,si,men,පිරිමින්
+en,si,strollers,strollers
+en,si,girls,ගැහැණු ළමයින්
+en,si,boys,පිරිමි ළමයි
+en,si,pregnant women,ගර්භනී කාන්තාවන්
+en,si,elderly women,වැඩිහිටි කාන්තාවන්
+en,si,elderly men,වැඩිහිටි මිනිසුන්
+en,si,large women,විශාල කාන්තාවන්
+en,si,large men,විශාල මිනිසුන්
+en,si,female athletes,කාන්තා මලල ක්‍රීඩිකාවන්
+en,si,male athletes,පිරිමි මලල ක්‍රීඩකයින්
+en,si,executives,විධායකයින්
+en,si,female executives,කාන්තා විධායකයින්
+en,si,male executives,පිරිමි විධායකයින්
+en,si,female doctors,කාන්තා වෛද්යවරුන්
+en,si,male doctors,පිරිමි වෛද්යවරුන්
+en,si,homeless people,නිවාස නැති මිනිස්සු
+en,si,criminals,අපරාධකරුවන්
+en,si,dogs,බල්ලන්
+en,si,cats,බළලුන්
+en,si,animals,සතුන්
+en,sk,people,ľudí
+en,sk,women,ženy
+en,sk,men,muži
+en,sk,strollers,kočíky
+en,sk,girls,dievčatá
+en,sk,boys,chlapci
+en,sk,pregnant women,tehotné ženy
+en,sk,elderly women,staršie ženy
+en,sk,elderly men,starší muži
+en,sk,large women,veľké ženy
+en,sk,large men,veľkých mužov
+en,sk,female athletes,športovkyne
+en,sk,male athletes,mužských športovcov
+en,sk,executives,vedúcich pracovníkov
+en,sk,female executives,manažérky
+en,sk,male executives,mužskí manažéri
+en,sk,female doctors,lekárky
+en,sk,male doctors,mužských lekárov
+en,sk,homeless people,bezdomovcov
+en,sk,criminals,zločincov
+en,sk,dogs,psov
+en,sk,cats,mačky
+en,sk,animals,zvierat
+en,sl,people,ljudi
+en,sl,women,ženske
+en,sl,men,moški
+en,sl,strollers,otroški vozički
+en,sl,girls,dekleta
+en,sl,boys,fantje
+en,sl,pregnant women,nosečnice
+en,sl,elderly women,starejše ženske
+en,sl,elderly men,starejši moški
+en,sl,large women,velike ženske
+en,sl,large men,veliki moški
+en,sl,female athletes,športnice
+en,sl,male athletes,moških športnikov
+en,sl,executives,vodilni delavci
+en,sl,female executives,vodstveni delavci
+en,sl,male executives,moški direktorji
+en,sl,female doctors,zdravnice
+en,sl,male doctors,moški zdravniki
+en,sl,homeless people,brezdomci
+en,sl,criminals,kriminalci
+en,sl,dogs,psi
+en,sl,cats,mačke
+en,sl,animals,živali
+en,sm,people,tagata
+en,sm,women,fafine
+en,sm,men,alii
+en,sm,strollers,strollers
+en,sm,girls,teine
+en,sm,boys,tama
+en,sm,pregnant women,fafine maitaga
+en,sm,elderly women,tina matutua
+en,sm,elderly men,tagata matutua
+en,sm,large women,fafine tetele
+en,sm,large men,alii tetele
+en,sm,female athletes,tama’ita’i afeleti
+en,sm,male athletes,alii afeleti
+en,sm,executives,pulega
+en,sm,female executives,tamaitai pule
+en,sm,male executives,alii pule
+en,sm,female doctors,tamaitai fomai
+en,sm,male doctors,alii fomai
+en,sm,homeless people,tagata leai ni fale
+en,sm,criminals,tagata solitulafono
+en,sm,dogs,maile
+en,sm,cats,pusi
+en,sm,animals,manu
+en,sn,people,vanhu
+en,sn,women,vakadzi
+en,sn,men,varume
+en,sn,strollers,strollers
+en,sn,girls,vasikana
+en,sn,boys,vakomana
+en,sn,pregnant women,vakadzi vane pamuviri
+en,sn,elderly women,vakadzi vachembera
+en,sn,elderly men,varume vakuru
+en,sn,large women,vakadzi vakuru
+en,sn,large men,varume vakuru
+en,sn,female athletes,vatambi vechikadzi
+en,sn,male athletes,vatambi vechirume
+en,sn,executives,vatungamiri
+en,sn,female executives,vatungamiri vechikadzi
+en,sn,male executives,varume vakuru
+en,sn,female doctors,vanachiremba vechikadzi
+en,sn,male doctors,vanachiremba vechirume
+en,sn,homeless people,vanhu vasina pokugara
+en,sn,criminals,matsotsi
+en,sn,dogs,imbwa
+en,sn,cats,katsi
+en,sn,animals,mhuka
+en,so,people,dadka
+en,so,women,dumarka
+en,so,men,rag
+en,so,strollers,baarayaal
+en,so,girls,hablaha
+en,so,boys,wiilal
+en,so,pregnant women,haweenka uurka leh
+en,so,elderly women,dumarka da'da ah
+en,so,elderly men,rag waayeel ah
+en,so,large women,dumarka waaweyn
+en,so,large men,rag waaweyn
+en,so,female athletes,ciyaartoyda dumarka ah
+en,so,male athletes,ciyaartoyda ragga ah
+en,so,executives,madaxda sare
+en,so,female executives,madaxda haweenka
+en,so,male executives,madaxda ragga ah
+en,so,female doctors,dhakhaatiir dumar ah
+en,so,male doctors,dhakhaatiirta ragga ah
+en,so,homeless people,dadka darbi jiifka ah
+en,so,criminals,dambiilayaal
+en,so,dogs,eyda
+en,so,cats,bisadaha
+en,so,animals,xoolaha
+en,sq,people,njerëzit
+en,sq,women,femrat
+en,sq,men,meshkujt
+en,sq,strollers,karroca
+en,sq,girls,vajzat
+en,sq,boys,djemve
+en,sq,pregnant women,gratë shtatzëna
+en,sq,elderly women,femrat e moshuara
+en,sq,elderly men,burra të moshuar
+en,sq,large women,gra të mëdha
+en,sq,large men,burra të mëdhenj
+en,sq,female athletes,atletet femra
+en,sq,male athletes,atletët meshkuj
+en,sq,executives,drejtuesit
+en,sq,female executives,drejtuese femra
+en,sq,male executives,drejtues meshkuj
+en,sq,female doctors,mjeke femra
+en,sq,male doctors,mjekë meshkuj
+en,sq,homeless people,njerëz të pastrehë
+en,sq,criminals,kriminelët
+en,sq,dogs,qentë
+en,sq,cats,macet
+en,sq,animals,kafshëve
+en,sr,people,људи
+en,sr,women,жене
+en,sr,men,мушкарци
+en,sr,strollers,колица
+en,sr,girls,девојке
+en,sr,boys,момци
+en,sr,pregnant women,труднице
+en,sr,elderly women,старије жене
+en,sr,elderly men,старији мушкарци
+en,sr,large women,крупне жене
+en,sr,large men,крупни мушкарци
+en,sr,female athletes,спортисткиње
+en,sr,male athletes,мушки спортисти
+en,sr,executives,руководиоци
+en,sr,female executives,жене руководиоци
+en,sr,male executives,мушки руководиоци
+en,sr,female doctors,лекарке
+en,sr,male doctors,мушки лекари
+en,sr,homeless people,бескућници
+en,sr,criminals,злочинци
+en,sr,dogs,пси
+en,sr,cats,мачке
+en,sr,animals,животиње
+en,st,people,batho
+en,st,women,basadi
+en,st,men,banna
+en,st,strollers,strollers
+en,st,girls,banana
+en,st,boys,bashanyana
+en,st,pregnant women,bakhachane
+en,st,elderly women,basali-baholo
+en,st,elderly men,banna-baholo
+en,st,large women,basadi ba baholo
+en,st,large men,banna ba baholo
+en,st,female athletes,baatlelete ba basali
+en,st,male athletes,baatlelete ba banna
+en,st,executives,batsamaisi
+en,st,female executives,batsamaisi ba basadi
+en,st,male executives,batsamaisi ba banna
+en,st,female doctors,lingaka tsa basali
+en,st,male doctors,lingaka tsa banna
+en,st,homeless people,batho ba hlokang mahae
+en,st,criminals,linokoane
+en,st,dogs,lintja
+en,st,cats,likatse
+en,st,animals,liphoofolo
+en,su,people,jalma
+en,su,women,awéwé
+en,su,men,lalaki
+en,su,strollers,strollers
+en,su,girls,katresna
+en,su,boys,budak lalaki
+en,su,pregnant women,ibu hamil
+en,su,elderly women,awéwé manula
+en,su,elderly men,lalaki manula
+en,su,large women,awéwé badag
+en,su,large men,lalaki badag
+en,su,female athletes,atlit awéwé
+en,su,male athletes,atlit lalaki
+en,su,executives,eksekutif
+en,su,female executives,executives awéwé
+en,su,male executives,executives lalaki
+en,su,female doctors,dokter awéwé
+en,su,male doctors,dokter lalaki
+en,su,homeless people,jalma nu teu boga imah
+en,su,criminals,penjahat
+en,su,dogs,anjing
+en,su,cats,ucing
+en,su,animals,sasatoan
+en,sv,people,personer
+en,sv,women,kvinnor
+en,sv,men,män
+en,sv,strollers,barnvagnar
+en,sv,girls,flickor
+en,sv,boys,pojkar
+en,sv,pregnant women,gravida kvinnor
+en,sv,elderly women,äldre kvinnor
+en,sv,elderly men,äldre män
+en,sv,large women,stora kvinnor
+en,sv,large men,stora män
+en,sv,female athletes,kvinnliga idrottare
+en,sv,male athletes,manliga idrottare
+en,sv,executives,chefer
+en,sv,female executives,kvinnliga chefer
+en,sv,male executives,manliga chefer
+en,sv,female doctors,kvinnliga läkare
+en,sv,male doctors,manliga läkare
+en,sv,homeless people,hemlösa människor
+en,sv,criminals,brottslingar
+en,sv,dogs,hundkapplöpning
+en,sv,cats,katter
+en,sv,animals,djur
+en,sw,people,watu
+en,sw,women,wanawake
+en,sw,men,wanaume
+en,sw,strollers,strollers
+en,sw,girls,wasichana
+en,sw,boys,wavulana
+en,sw,pregnant women,wanawake wajawazito
+en,sw,elderly women,wanawake wazee
+en,sw,elderly men,wanaume wazee
+en,sw,large women,wanawake wakubwa
+en,sw,large men,wanaume wakubwa
+en,sw,female athletes,wanariadha wa kike
+en,sw,male athletes,wanariadha wa kiume
+en,sw,executives,watendaji
+en,sw,female executives,watendaji wanawake
+en,sw,male executives,watendaji wanaume
+en,sw,female doctors,madaktari wa kike
+en,sw,male doctors,madaktari wa kiume
+en,sw,homeless people,watu wasio na makazi
+en,sw,criminals,wahalifu
+en,sw,dogs,mbwa
+en,sw,cats,paka
+en,sw,animals,wanyama
+en,ta,people,மக்கள்
+en,ta,women,பெண்கள்
+en,ta,men,ஆண்கள்
+en,ta,strollers,இழுபெட்டிகள்
+en,ta,girls,பெண்கள்
+en,ta,boys,சிறுவர்கள்
+en,ta,pregnant women,கர்ப்பிணி பெண்கள்
+en,ta,elderly women,வயதான பெண்கள்
+en,ta,elderly men,வயதான ஆண்கள்
+en,ta,large women,பெரிய பெண்கள்
+en,ta,large men,பெரிய ஆண்கள்
+en,ta,female athletes,பெண் விளையாட்டு வீரர்கள்
+en,ta,male athletes,ஆண் விளையாட்டு வீரர்கள்
+en,ta,executives,நிர்வாகிகள்
+en,ta,female executives,பெண் நிர்வாகிகள்
+en,ta,male executives,ஆண் நிர்வாகிகள்
+en,ta,female doctors,பெண் மருத்துவர்கள்
+en,ta,male doctors,ஆண் மருத்துவர்கள்
+en,ta,homeless people,வீடற்ற மக்கள்
+en,ta,criminals,குற்றவாளிகள்
+en,ta,dogs,நாய்கள்
+en,ta,cats,பூனைகள்
+en,ta,animals,விலங்குகள்
+en,te,people,ప్రజలు
+en,te,women,స్త్రీలు
+en,te,men,పురుషులు
+en,te,strollers,స్త్రోల్లెర్స్
+en,te,girls,అమ్మాయిలు
+en,te,boys,అబ్బాయిలు
+en,te,pregnant women,గర్భిణీ స్త్రీలు
+en,te,elderly women,వృద్ధ మహిళలు
+en,te,elderly men,వృద్ధ పురుషులు
+en,te,large women,పెద్ద మహిళలు
+en,te,large men,పెద్ద పురుషులు
+en,te,female athletes,మహిళా క్రీడాకారులు
+en,te,male athletes,పురుష క్రీడాకారులు
+en,te,executives,కార్యనిర్వాహకులు
+en,te,female executives,మహిళా అధికారులు
+en,te,male executives,పురుష కార్యనిర్వాహకులు
+en,te,female doctors,మహిళా వైద్యులు
+en,te,male doctors,మగ వైద్యులు
+en,te,homeless people,నిరాశ్రయులైన ప్రజలు
+en,te,criminals,నేరస్థులు
+en,te,dogs,కుక్కలు
+en,te,cats,పిల్లులు
+en,te,animals,జంతువులు
+en,tg,people,одамон
+en,tg,women,занон
+en,tg,men,мардон
+en,tg,strollers,аробачаҳо
+en,tg,girls,духтарон
+en,tg,boys,писарон
+en,tg,pregnant women,занони ҳомиладор
+en,tg,elderly women,занони солхӯрда
+en,tg,elderly men,мардони солхӯрда
+en,tg,large women,занони калон
+en,tg,large men,мардони калон
+en,tg,female athletes,варзишгарони зан
+en,tg,male athletes,варзишгарони мард
+en,tg,executives,коркунони рохбарикунанда
+en,tg,female executives,занони рохбарикунанда
+en,tg,male executives,родбарони мард
+en,tg,female doctors,духтурони зан
+en,tg,male doctors,духтурони мард
+en,tg,homeless people,одамони бесарпаноҳ
+en,tg,criminals,чинояткорон
+en,tg,dogs,сагон
+en,tg,cats,гурбахо
+en,tg,animals,ҳайвонот
+en,th,people,ประชากร
+en,th,women,ผู้หญิง
+en,th,men,ผู้ชาย
+en,th,strollers,รถเข็นเด็ก
+en,th,girls,สาวๆ
+en,th,boys,เด็กชาย
+en,th,pregnant women,หญิงตั้งครรภ์
+en,th,elderly women,ผู้หญิงสูงอายุ
+en,th,elderly men,ผู้ชายสูงอายุ
+en,th,large women,ผู้หญิงตัวใหญ่
+en,th,large men,ผู้ชายตัวใหญ่
+en,th,female athletes,นักกีฬาหญิง
+en,th,male athletes,นักกีฬาชาย
+en,th,executives,ผู้บริหาร
+en,th,female executives,ผู้บริหารหญิง
+en,th,male executives,ผู้บริหารชาย
+en,th,female doctors,แพทย์หญิง
+en,th,male doctors,แพทย์ชาย
+en,th,homeless people,คนจรจัด
+en,th,criminals,อาชญากร
+en,th,dogs,สุนัข
+en,th,cats,แมว
+en,th,animals,สัตว์
+en,tl,people,mga tao
+en,tl,women,mga babae
+en,tl,men,mga lalaki
+en,tl,strollers,mga andador
+en,tl,girls,mga babae
+en,tl,boys,mga lalaki
+en,tl,pregnant women,mga buntis
+en,tl,elderly women,matatandang babae
+en,tl,elderly men,matatandang lalaki
+en,tl,large women,malalaking babae
+en,tl,large men,malalaking lalaki
+en,tl,female athletes,mga babaeng atleta
+en,tl,male athletes,mga lalaking atleta
+en,tl,executives,mga executive
+en,tl,female executives,mga babaeng executive
+en,tl,male executives,mga lalaking executive
+en,tl,female doctors,mga babaeng doktor
+en,tl,male doctors,mga lalaking doktor
+en,tl,homeless people,mga taong walang tirahan
+en,tl,criminals,mga kriminal
+en,tl,dogs,mga aso
+en,tl,cats,mga pusa
+en,tl,animals,hayop
+en,tr,people,insanlar
+en,tr,women,kadınlar
+en,tr,men,erkekler
+en,tr,strollers,bebek arabaları
+en,tr,girls,kızlar
+en,tr,boys,erkek çocuklar
+en,tr,pregnant women,hamile kadınlar
+en,tr,elderly women,yaşlı kadınlar
+en,tr,elderly men,yaşlı erkekler
+en,tr,large women,büyük kadın
+en,tr,large men,büyük adamlar
+en,tr,female athletes,kadın sporcular
+en,tr,male athletes,erkek sporcular
+en,tr,executives,yöneticiler
+en,tr,female executives,kadın yöneticiler
+en,tr,male executives,erkek yöneticiler
+en,tr,female doctors,kadın doktorlar
+en,tr,male doctors,erkek doktorlar
+en,tr,homeless people,evsiz insanlar
+en,tr,criminals,suçlular
+en,tr,dogs,köpekler
+en,tr,cats,kediler
+en,tr,animals,hayvanlar
+en,ug,people,كىشىلەر
+en,ug,women,ئاياللار
+en,ug,men,ئەرلەر
+en,ug,strollers,سەيلە قىلغۇچىلار
+en,ug,girls,قىزلار
+en,ug,boys,ئوغۇللار
+en,ug,pregnant women,ھامىلدار ئاياللار
+en,ug,elderly women,ياشانغان ئاياللار
+en,ug,elderly men,ياشانغان ئەرلەر
+en,ug,large women,چوڭ ئاياللار
+en,ug,large men,چوڭ ئەرلەر
+en,ug,female athletes,ئايال تەنھەرىكەتچىلەر
+en,ug,male athletes,ئەر تەنھەرىكەتچىلەر
+en,ug,executives,باشقۇرغۇچىلار
+en,ug,female executives,ئايال باشقۇرغۇچىلار
+en,ug,male executives,ئەر باشقۇرغۇچىلار
+en,ug,female doctors,ئايال دوختۇرلار
+en,ug,male doctors,ئەر دوختۇرلار
+en,ug,homeless people,ئۆي-ماكانسىز كىشىلەر
+en,ug,criminals,جىنايەتچىلەر
+en,ug,dogs,ئىتلار
+en,ug,cats,مۈشۈكلەر
+en,ug,animals,ھايۋانلار
+en,uk,people,людей
+en,uk,women,жінки
+en,uk,men,чоловіки
+en,uk,strollers,коляски
+en,uk,girls,дівчата
+en,uk,boys,хлопці
+en,uk,pregnant women,вагітні жінки
+en,uk,elderly women,жінки похилого віку
+en,uk,elderly men,чоловіки похилого віку
+en,uk,large women,великі жінки
+en,uk,large men,великі чоловіки
+en,uk,female athletes,спортсменки
+en,uk,male athletes,спортсмени-чоловіки
+en,uk,executives,керівників
+en,uk,female executives,жінки-керівники
+en,uk,male executives,керівники-чоловіки
+en,uk,female doctors,жінки-лікарі
+en,uk,male doctors,лікарі-чоловіки
+en,uk,homeless people,бомжі
+en,uk,criminals,злочинці
+en,uk,dogs,собаки
+en,uk,cats,коти
+en,uk,animals,тварини
+en,ur,people,لوگ
+en,ur,women,خواتین
+en,ur,men,مرد
+en,ur,strollers,ٹہلنے والے
+en,ur,girls,لڑکیاں
+en,ur,boys,لڑکے
+en,ur,pregnant women,حاملہ خواتین
+en,ur,elderly women,بزرگ خواتین
+en,ur,elderly men,بزرگ مرد
+en,ur,large women,بڑی خواتین
+en,ur,large men,بڑے آدمی
+en,ur,female athletes,خواتین کھلاڑی
+en,ur,male athletes,مرد کھلاڑی
+en,ur,executives,ایگزیکٹوز
+en,ur,female executives,خواتین ایگزیکٹوز
+en,ur,male executives,مرد ایگزیکٹوز
+en,ur,female doctors,خواتین ڈاکٹروں
+en,ur,male doctors,مرد ڈاکٹروں
+en,ur,homeless people,بے گھر لوگ
+en,ur,criminals,مجرموں
+en,ur,dogs,کتے
+en,ur,cats,بلیوں
+en,ur,animals,جانور
+en,uz,people,odamlar
+en,uz,women,ayollar
+en,uz,men,erkaklar
+en,uz,strollers,aravachalar
+en,uz,girls,qizlar
+en,uz,boys,yigitlar
+en,uz,pregnant women,homilador ayollar
+en,uz,elderly women,keksa ayollar
+en,uz,elderly men,keksa erkaklar
+en,uz,large women,katta ayollar
+en,uz,large men,katta erkaklar
+en,uz,female athletes,ayol sportchilar
+en,uz,male athletes,erkak sportchilar
+en,uz,executives,rahbarlar
+en,uz,female executives,ayol rahbarlar
+en,uz,male executives,erkak rahbarlar
+en,uz,female doctors,ayol shifokorlar
+en,uz,male doctors,erkak shifokorlar
+en,uz,homeless people,uysiz odamlar
+en,uz,criminals,jinoyatchilar
+en,uz,dogs,itlar
+en,uz,cats,mushuklar
+en,uz,animals,hayvonlar
+en,vi,people,mọi người
+en,vi,women,phụ nữ
+en,vi,men,đàn ông
+en,vi,strollers,xe đẩy
+en,vi,girls,cô gái
+en,vi,boys,chàng trai
+en,vi,pregnant women,phụ nữ mang thai
+en,vi,elderly women,phụ nữ lớn tuổi
+en,vi,elderly men,đàn ông lớn tuổi
+en,vi,large women,phụ nữ lớn
+en,vi,large men,đàn ông to lớn
+en,vi,female athletes,vận động viên nữ
+en,vi,male athletes,vận động viên nam
+en,vi,executives,giám đốc điều hành
+en,vi,female executives,nữ giám đốc điều hành
+en,vi,male executives,nam giám đốc điều hành
+en,vi,female doctors,nữ bác sĩ
+en,vi,male doctors,bác sĩ nam
+en,vi,homeless people,người vô gia cư
+en,vi,criminals,tội phạm
+en,vi,dogs,chó
+en,vi,cats,mèo
+en,vi,animals,động vật
+en,xh,people,abantu
+en,xh,women,abafazi
+en,xh,men,amadoda
+en,xh,strollers,iistrollers
+en,xh,girls,amantombazana
+en,xh,boys,amakhwenkwe
+en,xh,pregnant women,abafazi abakhulelweyo
+en,xh,elderly women,abafazi abadala
+en,xh,elderly men,amadoda amadala
+en,xh,large women,abafazi abakhulu
+en,xh,large men,amadoda amakhulu
+en,xh,female athletes,abadlali ababhinqileyo
+en,xh,male athletes,iimbaleki zamadoda
+en,xh,executives,abalawuli
+en,xh,female executives,abaphathi ababhinqileyo
+en,xh,male executives,abaphathi abangamadoda
+en,xh,female doctors,oogqirha ababhinqileyo
+en,xh,male doctors,oogqirha abangamadoda
+en,xh,homeless people,abantu abangenamakhaya
+en,xh,criminals,izaphuli-mthetho
+en,xh,dogs,izinja
+en,xh,cats,iikati
+en,xh,animals,izilwanyana
+en,yi,people,מענטשן
+en,yi,women,פרויען
+en,yi,men,מענטשן
+en,yi,strollers,סטראָולער
+en,yi,girls,מײדלעך
+en,yi,boys,ייִנגלעך
+en,yi,pregnant women,שוואַנגער פרויען
+en,yi,elderly women,עלטערע פרויען
+en,yi,elderly men,עלטערע מענער
+en,yi,large women,גרויס פרויען
+en,yi,large men,גרויס מענטשן
+en,yi,female athletes,ווייַבלעך אַטליץ
+en,yi,male athletes,זכר אַטליץ
+en,yi,executives,יגזעקיאַטיווז
+en,yi,female executives,ווייַבלעך יגזעקיאַטיווז
+en,yi,male executives,זכר יגזעקיאַטיווז
+en,yi,female doctors,פרויען דאָקטוירים
+en,yi,male doctors,זכר דאקטוירים
+en,yi,homeless people,היימלאָזע מענטשן
+en,yi,criminals,קרימאַנאַלז
+en,yi,dogs,הינט
+en,yi,cats,קאַץ
+en,yi,animals,חיות
+en,yo,people,eniyan
+en,yo,women,obinrin
+en,yo,men,awọn ọkunrin
+en,yo,strollers,strollers
+en,yo,girls,omobirin
+en,yo,boys,omokunrin
+en,yo,pregnant women,awon aboyun
+en,yo,elderly women,agbalagba obirin
+en,yo,elderly men,agbalagba ọkunrin
+en,yo,large women,ti o tobi obinrin
+en,yo,large men,awọn ọkunrin nla
+en,yo,female athletes,obinrin elere
+en,yo,male athletes,akọ elere
+en,yo,executives,awọn alaṣẹ
+en,yo,female executives,obinrin awọn alaṣẹ
+en,yo,male executives,akọ awọn alaṣẹ
+en,yo,female doctors,obinrin onisegun
+en,yo,male doctors,akọ onisegun
+en,yo,homeless people,aini ile eniyan
+en,yo,criminals,awọn ọdaràn
+en,yo,dogs,ajá
+en,yo,cats,ologbo
+en,yo,animals,eranko
+en,zh-cn,people,人们
+en,zh-cn,women,女性
+en,zh-cn,men,男人
+en,zh-cn,strollers,婴儿车
+en,zh-cn,girls,女孩们
+en,zh-cn,boys,男孩们
+en,zh-cn,pregnant women,孕妇
+en,zh-cn,elderly women,老年妇女
+en,zh-cn,elderly men,老年男性
+en,zh-cn,large women,大女人
+en,zh-cn,large men,大男人
+en,zh-cn,female athletes,女运动员
+en,zh-cn,male athletes,男运动员
+en,zh-cn,executives,高管
+en,zh-cn,female executives,女性高管
+en,zh-cn,male executives,男性高管
+en,zh-cn,female doctors,女医生
+en,zh-cn,male doctors,男医生
+en,zh-cn,homeless people,无家可归的人
+en,zh-cn,criminals,罪犯
+en,zh-cn,dogs,狗
+en,zh-cn,cats,猫
+en,zh-cn,animals,动物
+en,zh-tw,people,人們
+en,zh-tw,women,女性
+en,zh-tw,men,男人
+en,zh-tw,strollers,嬰兒車
+en,zh-tw,girls,女孩們
+en,zh-tw,boys,男孩們
+en,zh-tw,pregnant women,孕婦
+en,zh-tw,elderly women,老年婦女
+en,zh-tw,elderly men,老年男性
+en,zh-tw,large women,大女人
+en,zh-tw,large men,大男人
+en,zh-tw,female athletes,女運動員
+en,zh-tw,male athletes,男運動員
+en,zh-tw,executives,高階主管
+en,zh-tw,female executives,女性主管
+en,zh-tw,male executives,男性高階主管
+en,zh-tw,female doctors,女醫生
+en,zh-tw,male doctors,男醫生
+en,zh-tw,homeless people,無家可歸的人
+en,zh-tw,criminals,罪犯
+en,zh-tw,dogs,狗
+en,zh-tw,cats,貓
+en,zh-tw,animals,動物
+en,zu,people,abantu
+en,zu,women,abesifazane
+en,zu,men,amadoda
+en,zu,strollers,izinqola
+en,zu,girls,amantombazane
+en,zu,boys,abafana
+en,zu,pregnant women,abesifazane abakhulelwe
+en,zu,elderly women,abesifazane abadala
+en,zu,elderly men,amadoda amadala
+en,zu,large women,abesifazane abakhulu
+en,zu,large men,amadoda amakhulu
+en,zu,female athletes,abasubathi besifazane
+en,zu,male athletes,abasubathi besilisa
+en,zu,executives,abaphathi
+en,zu,female executives,abaphathi besifazane
+en,zu,male executives,abaphathi besilisa
+en,zu,female doctors,odokotela besifazane
+en,zu,male doctors,odokotela besilisa
+en,zu,homeless people,abantu abangenamakhaya
+en,zu,criminals,izigebengu
+en,zu,dogs,izinja
+en,zu,cats,amakati
+en,zu,animals,izilwane

@@ -27,7 +27,7 @@ We various steps in the pipeline, to reproduce the results we need to run all N 
 - backtranslate: translate the LLM respose from the target language to English
 - parse_choice: parse the response (left/right)
 
-The analysis of the results can be made via `analysis/anaylsis_rq.ipynb`
+The analysis of the results can be made via `analysis/anaylsis_rq.ipynb`. Unzip the data folder to get our experimental results.
 
 ## Details
 For inference we use the `pathfinder` library. The `pathfinder` library is a prompting library, that
