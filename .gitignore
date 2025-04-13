@@ -163,5 +163,4 @@ cython_debug/
 
 
 outputs/
-data/
 api_usage/
